@@ -138,7 +138,7 @@
             let selectedAnswer = domAnswer.getAttribute('for').slice(-1)
             console.log(selectedQuestion, '=>', gabQuestion, '=>', selectedAnswer)
             console.log(domAnswer.closest('div').lastElementChild)
-            domAnswer.closest('div').lastElementChild.innerHTML = selectedAnswer === gabQuestion ? `<span class="badge bg-success">Acertou!👏</span>` : `<span class="badge bg-danger">Errou!📚 (${gabQuestion})</span>`
+            domAnswer.closest('div').lastElementChild.innerHTML = selectedAnswer === gabQuestion ? `<span class="badge bg-success">Acertou!👏 (${gabQuestion})</span>` : `<span class="badge bg-danger">Errou!📚 (${gabQuestion})</span>`
             domAnswer.closest('div').lastElementChild.classList.remove('invisible')
             domAnswer.closest('div').lastElementChild.classList.add('visible')
 
