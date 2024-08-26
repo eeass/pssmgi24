@@ -118,9 +118,6 @@
         }
     }; getGabaritos()
 
-
-    Object.keys(gabaritos_pss_mgi_aocp_2024).forEach(k => document.getElementById('selectGab').insertAdjacentHTML('beforeend', `<option value="${k}">${k}</option>`))
-
     document.getElementById('selectGab').addEventListener('change', function () {
         console.log(this.value);
         window['selectedGab'] = this.value
