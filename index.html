@@ -64,7 +64,8 @@
 <body>
     <div id="wrapper">
         <div>
-            <select id="selectGab" class="form-select" aria-label="Seleção de Gabarito">
+            <h2 class="text-center mt-2">Gabaritos</h2>
+            <select id="selectGab" class="form-select bg-secondary bg-gradient text-white fs-4" aria-label="Seleção de Gabarito">
                 <option selected="">Selecione um GABARITO</option>
             </select>
         </div>
@@ -108,7 +109,7 @@
         }
         document.getElementById('wrapper').insertAdjacentHTML('beforeend', '<div style="height: 72px;"></div>')
 
-    }; makeQuestion({ cb: [25, "success", 520, "Básicos"], ce: [45, "danger", 840, "Específicos"] })
+    }; makeQuestion({ cb: [25, "success", 620, "Básicos"], ce: [45, "danger", 960, "Específicos"] })
 
     
     async function getGabaritos() {
