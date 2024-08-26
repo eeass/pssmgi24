@@ -110,11 +110,11 @@
 
     }; makeQuestion({ cb: [25, "success", 520, "Básicos"], ce: [45, "danger", 840, "Específicos"] })
 
-    //window['gabaritos_pss_mgi_aocp_2024'] = {
-    //    "401 - ESPECIALISTA EM ANÁLISE DE PROCESSOS DE NEGÓCIOS": ["B", "C", "D", "A", "B", "C", "D", "A", "E", "B", "E", "D", "B", "B", "D", "D", "A", "E", "B", "A", "D", "A", "B", "C", "E", "A", "B", "C", "E", "D", "C", "A", "B", "C", "D", "B", "C", "C", "A", "C", "D", "B", "B", "C", "D", "A", "B", "E", "E", "D", "A", "B", "A", "B", "C", "C", "B", "A", "B", "D", "D", "E", "A", "D", "E", "E", "E", "C", "E", "D"]
-    //}
+    async function getGabaritos() {
+        gabaritos_pss_mgi_aocp_2024 = await fetch('https://api.github.com/repos/eeass/pssmgi24/contents/data/gabaritos.json').then(r => r.json())
+        Object.keys(gabaritos_pss_mgi_aocp_2024).forEach(k => document.getElementById('selectGab').insertAdjacentHTML('beforeend', `<option value="${k}">${k}</option>`))
+    }; getGabaritos()
 
-    window['gabaritos_pss_mgi_aocp_2024'] = await fetch('https://api.github.com/repos/eeass/pssmgi24/contents/data/gabaritos.json').then(r => r.json())
 
     Object.keys(gabaritos_pss_mgi_aocp_2024).forEach(k => document.getElementById('selectGab').insertAdjacentHTML('beforeend', `<option value="${k}">${k}</option>`))
 
