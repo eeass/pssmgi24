@@ -110,9 +110,12 @@
 
     }; makeQuestion({ cb: [25, "success", 520, "Básicos"], ce: [45, "danger", 840, "Específicos"] })
 
+    
     async function getGabaritos() {
-        gabaritos_pss_mgi_aocp_2024 = await fetch('https://api.github.com/repos/eeass/pssmgi24/contents/data/gabaritos.json').then(r => r.json())
-        Object.keys(gabaritos_pss_mgi_aocp_2024).forEach(k => document.getElementById('selectGab').insertAdjacentHTML('beforeend', `<option value="${k}">${k}</option>`))
+        gabaritos_pss_mgi_aocp_2024 = await fetch('data/gabaritos.json').then(r => r.json())
+        for await (const [k,v] of Object.entries(gabaritos_pss_mgi_aocp_2024)) {
+            document.getElementById('selectGab').insertAdjacentHTML('beforeend', `<option value="${k}">${k}</option>`)
+        }
     }; getGabaritos()
 
 
