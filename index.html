@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Notas - PSS/MGI2024/AOCP</title>
+    <!-- BOOTSTRAP -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <style>
+        /* .test-zone {
+            max-height: 320px;
+        } */
+
+        nav {
+            width: fit-content;
+            /* border: 1px solid #666; */
+            /* border-radius: 4px; */
+            overflow: hidden;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: no-wrap;
+        }
+
+        nav input {
+            display: none;
+        }
+
+        nav label {
+            font-family: sans-serif;
+            padding: 6px 12px;
+            border: 1px solid #ccc;
+            border-radius: 24px;
+            margin: 0 5px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        nav label:last-of-type {
+            border-right: 0;
+        }
+
+        nav label:hover {
+            background: #eee;
+        }
+
+        nav input:checked+label {
+            background: #becbff;
+        }
+
+        .question-item {
+            .question-index {
+                padding: 0 5px;
+                font-size: large;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div>
+            <select id="selectGab" class="form-select" aria-label="Seleção de Gabarito">
+                <option selected="">Selecione um GABARITO</option>
+            </select>
+        </div>
+    </div>
+    <footer class="footer fixed-bottom bg-primary">
+        <div id='calcNota1'  class="text-center text-white fs-4">NPO (0) = NCB (0) + NCE (0)</div>
+        <div id='calcNota2'  class="text-center fs-4 bg-warning">NCB (0) = LP (0) + RL (0) DIR (0) + GES (0) + eGOV(0)</div>
+
+    </footer>
+</body>
+<script>
+    function makeQuestion(testConfig) {
+        //console.log(Object.entries(testConfig))
+        let counterQuestion = 0
+        for (const [typeTest, configTest] of Object.entries(testConfig)) {
+            let testContainer = Object.assign(document.createElement('div'), { className: `` })
+            let testZone = Object.assign(document.createElement('div'), { className: `d-flex flex-column flex-wrap align-items-center bg-${configTest[1]} bg-opacity-10` })
+            testZone.style.maxHeight = configTest[2] + "px"
+            let testHeader = Object.assign(document.createElement('h2'), { className: "text-center mt-2", textContent: "Conhecimentos " + configTest[3] })
+            for (let idxQ of Array(configTest[0]).keys()) {
+                idxQ = counterQuestion++ //parseInt(idxQ)
+                let q = Object.assign(document.createElement('div'), { className: "d-flex align-items-center justify-content-end m-2 question-item" })
+                let spanIndex = Object.assign(document.createElement('span'), { className: "question-index", textContent: (idxQ + 1) })
+                let spanGab = Object.assign(document.createElement('span'), { className: "question-index invisible", textContent: "Errado" })
+                let nav = Object.assign(document.createElement('nav'), {})
+                for (const [idxO, option] of ["A", "B", "C", "D", "E"].entries()) {
+                    let input = (nId, strLabel) => Object.assign(document.createElement('input'), { type: "radio", id: typeTest + (idxQ + 1) + strLabel, name: typeTest })
+                    let label = document.createElement('label')
+                    label.setAttribute("for", typeTest + (idxQ + 1) + option)
+                    label.setAttribute("onclick", "checkAnswer(this)")
+                    label.setAttribute("data-idxQ", (idxQ + 1))
+                    label.textContent = option
+                    //let label = (nId, strLabel) => Object.assign(document.createElement('label'), { for: "cb" + (idxQ+1) + strLabel, textContent: strLabel })
+                    nav.append(input(idxO, option), label)
+                }
+                q.append(spanIndex, nav, spanGab)
+                testZone.append(q)
+            }
+            testContainer.append(testHeader, testZone)
+            document.getElementById('wrapper').insertAdjacentElement('beforeend', testContainer)
+        }
+        document.getElementById('wrapper').insertAdjacentHTML('beforeend', '<div style="height: 72px;"></div>')
+
+    }; makeQuestion({ cb: [25, "success", 520, "Básicos"], ce: [45, "danger", 840, "Específicos"] })
+
+    //window['gabaritos_pss_mgi_aocp_2024'] = {
+    //    "401 - ESPECIALISTA EM ANÁLISE DE PROCESSOS DE NEGÓCIOS": ["B", "C", "D", "A", "B", "C", "D", "A", "E", "B", "E", "D", "B", "B", "D", "D", "A", "E", "B", "A", "D", "A", "B", "C", "E", "A", "B", "C", "E", "D", "C", "A", "B", "C", "D", "B", "C", "C", "A", "C", "D", "B", "B", "C", "D", "A", "B", "E", "E", "D", "A", "B", "A", "B", "C", "C", "B", "A", "B", "D", "D", "E", "A", "D", "E", "E", "E", "C", "E", "D"]
+    //}
+
+    window['gabaritos_pss_mgi_aocp_2024'] = await fetch('https://api.github.com/repos/eeass/pssmgi24/contents/data/gabaritos.json').then(r => r.json())
+
+    Object.keys(gabaritos_pss_mgi_aocp_2024).forEach(k => document.getElementById('selectGab').insertAdjacentHTML('beforeend', `<option value="${k}">${k}</option>`))
+
+    document.getElementById('selectGab').addEventListener('change', function () {
+        console.log(this.value);
+        window['selectedGab'] = this.value
+    })
+
+    function counterCorrects(s,e) {
+        return Array.from(document.querySelectorAll('nav'))
+        .map(nav => nav.nextElementSibling.textContent)
+        .filter((strRef,idxQ) => idxQ >= s && idxQ < e)
+        .filter(strRef => strRef.startsWith('Acertou')).length 
+    }
+
+    function checkAnswer(domAnswer) {
+        console.log(domAnswer.getAttribute('for'))
+        if (typeof(selectedGab) !== 'undefined') {
+            let selectedQuestion = domAnswer.dataset.idxq
+            let gabQuestion = gabaritos_pss_mgi_aocp_2024[selectedGab][selectedQuestion - 1]
+            let selectedAnswer = domAnswer.getAttribute('for').slice(-1)
+            console.log(selectedQuestion, '=>', gabQuestion, '=>', selectedAnswer)
+            console.log(domAnswer.closest('div').lastElementChild)
+            domAnswer.closest('div').lastElementChild.innerHTML = selectedAnswer === gabQuestion ? `<span class="badge bg-success">Acertou!👏</span>` : `<span class="badge bg-danger">Errou!📚 (${gabQuestion})</span>`
+            domAnswer.closest('div').lastElementChild.classList.remove('invisible')
+            domAnswer.closest('div').lastElementChild.classList.add('visible')
+
+            let codCargo = selectedGab.split(' - ')[0]
+            console.log(codCargo)
+            let cb = {
+                lp: counterCorrects(0,5),
+                rl: counterCorrects(5,10),
+                dir: counterCorrects(10,15),
+                ges: codCargo === '405' ? 0 : counterCorrects(15,20) * 1.5,
+                egov: codCargo === '405' ? counterCorrects(15,25) * 2 : counterCorrects(20,25) * 2
+            }
+            let nce = counterCorrects(25,70) * 2
+            let ncb = Object.values(cb).reduce((sum, item) => sum + item, 0)
+            document.getElementById('calcNota1').innerHTML = `NPO (${ncb + nce}) = NCB (${ncb}) + NCE (${nce})`
+            document.getElementById('calcNota2').innerHTML = `NCB (${ncb}) = LP (${cb.lp}) + RL (${cb.rl}) + DIR (${cb.dir}) + GES (${cb.ges}) + eGOV (${cb.egov})`
+
+        } else {alert('Selecione um GABARITO no to da página!')}
+    }
+
+</script>
+
+</html>
