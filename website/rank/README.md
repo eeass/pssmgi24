@@ -13,8 +13,8 @@
 <img width="25%" height="50%" src="https://www.gov.br/transferegov/pt-br/noticias/noticias/arquivos-e-imagens/mgi.png">
 </p>
 
-# <p align="center">Repositório Colaborativo - PSS/MGI/2024 (AOCP)</p>
-## <p align="center">(https://www.institutoaocp.org.br/concursos/612)</p>
+# <p align="center">Ranking "Preliminar" - PSS/MGI/2024 (AOCP)</p>
+## <p align="center">(https://eeass.github.io/pssmgi24/rank)</p>
 
 
 

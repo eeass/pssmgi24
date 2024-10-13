@@ -1,0 +1,6473 @@
+{
+  "vagas": {
+    "ampla":22,
+    "pcd":2,
+    "pnp":6
+  },
+  "candidatos": {
+    "8920000135": {
+      "name": "Abdo Dias Da Silva Neto",
+      "nota_gerais": [
+        4,
+        2,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007424": {
+      "name": "Adonis Arantes De Souza",
+      "nota_gerais": [
+        4,
+        5,
+        5,
+        4,
+        8
+      ],
+      "nota_especifica": 74,
+      "nota_objetiva": 100,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009973": {
+      "name": "Adriana Soares De Abreu",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        5,
+        6
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 75,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003725": {
+      "name": "Adriely Santiago De Toledo",
+      "nota_gerais": [
+        5,
+        3,
+        4,
+        3,
+        6
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 79,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006933": {
+      "name": "Alessandra Rosa Cecilio Pimenta Petrassi",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 61,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": true
+    },
+    "8920006888": {
+      "name": "Alexandre Engelhardt ",
+      "nota_gerais": [
+        3,
+        4,
+        1,
+        1,
+        6
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 65,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001716": {
+      "name": "Alexandre Luiz Gondim Bazzi",
+      "nota_gerais": [
+        3,
+        4,
+        5,
+        3,
+        2
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 83,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004240": {
+      "name": "Alexandre Ricardo Da Silva",
+      "nota_gerais": [
+        3,
+        2,
+        5,
+        2,
+        6
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 64,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920002777": {
+      "name": "Alex De Oliveira Meireles",
+      "nota_gerais": [
+        2,
+        4,
+        2,
+        5,
+        6
+      ],
+      "nota_especifica": 70,
+      "nota_objetiva": 89,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006155": {
+      "name": "Alexsander Da Silva Oliveira",
+      "nota_gerais": [
+        4,
+        4,
+        2,
+        3,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007925": {
+      "name": "Aline De Mesquita Pereira Viegas",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        3,
+        4
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006792": {
+      "name": "Aline Doano Silva",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        4,
+        8
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 75,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920010002": {
+      "name": "Allana Carolyne De Figueiredo Tavares",
+      "nota_gerais": [
+        2,
+        3,
+        3,
+        1,
+        4
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 51,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003261": {
+      "name": "Ana Cândida Pereira De Medeiros",
+      "nota_gerais": [
+        5,
+        3,
+        2,
+        1,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006187": {
+      "name": "Ana Carolina Finotti Azeredo",
+      "nota_gerais": [
+        5,
+        4,
+        4,
+        3,
+        8
+      ],
+      "nota_especifica": 74,
+      "nota_objetiva": 98,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004348": {
+      "name": "Ana Cláudia De Souza",
+      "nota_gerais": [
+        2,
+        4,
+        3,
+        3,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004277": {
+      "name": "Ana Claudia Munhoz",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        2,
+        8
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 74,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003765": {
+      "name": "Ana Lilia Lima Dos Santos",
+      "nota_gerais": [
+        4,
+        1,
+        3,
+        3,
+        4
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 69,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003195": {
+      "name": "Ana Luisa Aires Ribeiro",
+      "nota_gerais": [
+        2,
+        4,
+        2,
+        4,
+        10
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004377": {
+      "name": "Ana Luisa Xavier Da Costa",
+      "nota_gerais": [
+        2,
+        3,
+        3,
+        2,
+        8
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 66,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009528": {
+      "name": "Ana Luiza Fernandes Vasconcelos",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        3,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 83,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002556": {
+      "name": "Ana Paula Gouveia Carneiro",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        3,
+        2
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 83,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920010008": {
+      "name": "Anderson Francisco Barbosa Da Silva",
+      "nota_gerais": [
+        3,
+        1,
+        3,
+        3,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 70,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005053": {
+      "name": "Anderson Vilela Amorim",
+      "nota_gerais": [
+        3,
+        4,
+        5,
+        2,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007650": {
+      "name": "Andréa Machado Costa",
+      "nota_gerais": [
+        2,
+        3,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 64,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001751": {
+      "name": "Andre Luiz Franco Braga",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        1,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006064": {
+      "name": "Andressa Monteiro Borges",
+      "nota_gerais": [
+        3,
+        3,
+        1,
+        3,
+        4
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 62,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003688": {
+      "name": "Andressa Porto Cavalcanti ",
+      "nota_gerais": [
+        3,
+        3,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 69,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003864": {
+      "name": "Andressa Vieira Bueno Popinigis",
+      "nota_gerais": [
+        5,
+        4,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 76,
+      "nota_objetiva": 101,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008256": {
+      "name": "Angelyca Cristina Linhares E Silva",
+      "nota_gerais": [
+        4,
+        3,
+        3,
+        3,
+        8
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 69,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000676": {
+      "name": "Antonio Correia Da Silva Neto",
+      "nota_gerais": [
+        1,
+        3,
+        4,
+        4,
+        4
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009663": {
+      "name": "Antonio Miguel Da Conceição",
+      "nota_gerais": [
+        1,
+        3,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 55,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000150": {
+      "name": "Antonio Primo Vieir",
+      "nota_gerais": [
+        3,
+        2,
+        2,
+        4,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 81,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008661": {
+      "name": "Ariane Nogueira Vieira",
+      "nota_gerais": [
+        3,
+        5,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 85,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004419": {
+      "name": "Aurea Macedo Lopes",
+      "nota_gerais": [
+        5,
+        2,
+        5,
+        2,
+        4
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002091": {
+      "name": "Aurea Ribeiro Carvalho Leitao",
+      "nota_gerais": [
+        4,
+        1,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006818": {
+      "name": "Bartholomeo Oliveira Barcelos",
+      "nota_gerais": [
+        2,
+        3,
+        2,
+        2,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 75,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007640": {
+      "name": "Bruna Denadai Ximenes",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        4,
+        4
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 65,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008842": {
+      "name": "Bruna Grandi",
+      "nota_gerais": [
+        4,
+        5,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 84,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009037": {
+      "name": "Bruna Lopes Becker Lorentz",
+      "nota_gerais": [
+        4,
+        5,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 83,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001083": {
+      "name": "Bruno Almeida Brasil",
+      "nota_gerais": [
+        5,
+        4,
+        5,
+        3,
+        6
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 79,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009512": {
+      "name": "Bruno De Oliveira Garcia ",
+      "nota_gerais": [
+        2,
+        1,
+        4,
+        3,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003975": {
+      "name": "Bruno Fernandes",
+      "nota_gerais": [
+        5,
+        4,
+        4,
+        2,
+        8
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004930": {
+      "name": "Bruno Fuzeira Chaul",
+      "nota_gerais": [
+        3,
+        4,
+        1,
+        1,
+        4
+      ],
+      "nota_especifica": 36,
+      "nota_objetiva": 49,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003482": {
+      "name": "Bruno Rafael Alves Aguiar",
+      "nota_gerais": [
+        2,
+        2,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 74,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006946": {
+      "name": "Camila Pereira Cota Brostel",
+      "nota_gerais": [
+        1,
+        2,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 54,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920006458": {
+      "name": "Camilla David De Moura Maranha",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        2,
+        2
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 60,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001330": {
+      "name": "Carine Santos Couto",
+      "nota_gerais": [
+        2,
+        4,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009116": {
+      "name": "Carlos Alberto Siqueira Tozzi",
+      "nota_gerais": [
+        2,
+        4,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001698": {
+      "name": "Carlos Eduardo Yokoy De Souza",
+      "nota_gerais": [
+        5,
+        2,
+        3,
+        3,
+        2
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004344": {
+      "name": "Carmem Lucia Ralo E Borges",
+      "nota_gerais": [
+        4,
+        4,
+        2,
+        1,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 65,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008859": {
+      "name": "Carolina Fernanda Cerveira",
+      "nota_gerais": [
+        3,
+        4,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 89,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003850": {
+      "name": "Caroline Araujo Nascimento",
+      "nota_gerais": [
+        1,
+        1,
+        2,
+        2,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 66,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005634": {
+      "name": "Caroline Soares Chaves Lopes",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 86,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006115": {
+      "name": "Cassandra Dalle Mulle Santos",
+      "nota_gerais": [
+        4,
+        3,
+        5,
+        1,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 83,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004329": {
+      "name": "Célia Cristina Ferreira De Oliveira",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        5,
+        8
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003212": {
+      "name": "César De Alencar Affonso",
+      "nota_gerais": [
+        4,
+        3,
+        3,
+        5,
+        8
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 85,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004261": {
+      "name": "Cintia Aguiar Ferreira Dos Santos De Morais",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 92,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003436": {
+      "name": "Clarissa Gomes Peixoto",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        3,
+        2
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 74,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008047": {
+      "name": "Claudia Pestana Simões",
+      "nota_gerais": [
+        4,
+        3,
+        5,
+        4,
+        8
+      ],
+      "nota_especifica": 74,
+      "nota_objetiva": 98,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005480": {
+      "name": "Cleber Pereira De Oliveira",
+      "nota_gerais": [
+        2,
+        4,
+        4,
+        3,
+        10
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920005737": {
+      "name": "Cleidiane Santos Barreto",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        1,
+        8
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920007080": {
+      "name": "Clerio Luciano De Andrade Vicente ",
+      "nota_gerais": [
+        5,
+        5,
+        4,
+        1,
+        8
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 65,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920008585": {
+      "name": "Cleyton Eduardo Dos Anjos Rios",
+      "nota_gerais": [
+        2,
+        3,
+        2,
+        4,
+        2
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 55,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004981": {
+      "name": "Crislene Moreira Brito",
+      "nota_gerais": [
+        2,
+        4,
+        3,
+        5,
+        4
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 84,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001802": {
+      "name": "Cristiane Leyendecker De Lima",
+      "nota_gerais": [
+        3,
+        4,
+        4,
+        4,
+        6
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003132": {
+      "name": "Crystophen Figueroa Cunha Tenorio",
+      "nota_gerais": [
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 66,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001750": {
+      "name": "Daiane Giarola Maia",
+      "nota_gerais": [
+        2,
+        3,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 85,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007361": {
+      "name": "Daniela Caroline Silva ",
+      "nota_gerais": [
+        5,
+        4,
+        3,
+        2,
+        6
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000191": {
+      "name": "Daniel Braga Dos Reis",
+      "nota_gerais": [
+        4,
+        5,
+        5,
+        4,
+        6
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920010025": {
+      "name": "Daniel Farias Gomes",
+      "nota_gerais": [
+        5,
+        3,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 78,
+      "nota_objetiva": 98,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009696": {
+      "name": "Daniel Igor Batista Crispim",
+      "nota_gerais": [
+        5,
+        4,
+        1,
+        2,
+        6
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920000965": {
+      "name": "Daniella Nascimento De Araujo",
+      "nota_gerais": [
+        1,
+        2,
+        4,
+        3,
+        8
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 70,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000521": {
+      "name": "Danielle Campagnucci Do Nascimento",
+      "nota_gerais": [
+        1,
+        2,
+        3,
+        4,
+        8
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004686": {
+      "name": "Danielle Do Socorro Andrade Da Silva",
+      "nota_gerais": [
+        3,
+        2,
+        1,
+        2,
+        4
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 54,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000028": {
+      "name": "Danielle Santa Brigida Da Silva Souza",
+      "nota_gerais": [
+        4,
+        2,
+        1,
+        5,
+        8
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 70,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": true
+    },
+    "8920000061": {
+      "name": "Daniel Paulino Gonçalves",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        2,
+        8
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002597": {
+      "name": "Davi Alves De Paula",
+      "nota_gerais": [
+        4,
+        3,
+        5,
+        3,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 75,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004751": {
+      "name": "David Bruno De Oliveira",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 89,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007761": {
+      "name": "David Ximenes Avila Siqueira Telles",
+      "nota_gerais": [
+        2,
+        3,
+        4,
+        2,
+        8
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008549": {
+      "name": "Deborah Marques De Souza",
+      "nota_gerais": [
+        3,
+        3,
+        5,
+        3,
+        4
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 64,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004378": {
+      "name": "Debora Lina Nascimento Ciriaco Pereira",
+      "nota_gerais": [
+        3,
+        5,
+        3,
+        4,
+        8
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 87,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000584": {
+      "name": "Diego Henrique Navarro",
+      "nota_gerais": [
+        3,
+        4,
+        5,
+        5,
+        8
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 87,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006751": {
+      "name": "Diego Ribeiro Guedes Pereira",
+      "nota_gerais": [
+        5,
+        4,
+        5,
+        2,
+        6
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 88,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001727": {
+      "name": "Diele Aparecida Mendes Da Silva",
+      "nota_gerais": [
+        5,
+        3,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 63,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004193": {
+      "name": "Diogo Dos Santos Rodrigues",
+      "nota_gerais": [
+        2,
+        3,
+        4,
+        4,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 79,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009672": {
+      "name": "Divino Diogo Do Nascimento Martins",
+      "nota_gerais": [
+        4,
+        4,
+        5,
+        3,
+        10
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 86,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006557": {
+      "name": "Eder Regis De Lucena",
+      "nota_gerais": [
+        2,
+        1,
+        5,
+        1,
+        8
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 75,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000255": {
+      "name": "Eduardo Mauricio Cortes Monteiro",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        1,
+        4
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006970": {
+      "name": "Eduardo Misquita Siqueira",
+      "nota_gerais": [
+        2,
+        2,
+        3,
+        3,
+        2
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 58,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009568": {
+      "name": "Eduardo Monclus Romanek",
+      "nota_gerais": [
+        3,
+        5,
+        4,
+        2,
+        2
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 84,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004163": {
+      "name": "Elaine Cristina De Resende",
+      "nota_gerais": [
+        1,
+        4,
+        4,
+        1,
+        4
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 52,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009053": {
+      "name": "Elaine Silva De Jesus Luz",
+      "nota_gerais": [
+        1,
+        3,
+        4,
+        3,
+        2
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 55,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002228": {
+      "name": "Elaine Torres Americo",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        3,
+        8
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 85,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008597": {
+      "name": "Eliana Fernandes Souza",
+      "nota_gerais": [
+        4,
+        2,
+        2,
+        1,
+        4
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 67,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004420": {
+      "name": "Elias Emanuel Alves De Sousa",
+      "nota_gerais": [
+        5,
+        5,
+        5,
+        2,
+        10
+      ],
+      "nota_especifica": 74,
+      "nota_objetiva": 101,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001519": {
+      "name": "Eline Souza Rocha",
+      "nota_gerais": [
+        3,
+        2,
+        2,
+        4,
+        6
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 65,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001257": {
+      "name": "Elisabeth Siqueira Novy",
+      "nota_gerais": [
+        1,
+        1,
+        3,
+        3,
+        4
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920002530": {
+      "name": "Elisângela Correia Alves",
+      "nota_gerais": [
+        4,
+        4,
+        2,
+        4,
+        10
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 86,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008053": {
+      "name": "Elisangela Gomes De Oliveira Martins",
+      "nota_gerais": [
+        2,
+        4,
+        3,
+        2,
+        2
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 55,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920000547": {
+      "name": "Eloiny Guimarães Barbosa",
+      "nota_gerais": [
+        5,
+        2,
+        4,
+        5,
+        8
+      ],
+      "nota_especifica": 72,
+      "nota_objetiva": 96,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002156": {
+      "name": "Emanuelle Moreira Oliveira Barbosa Da Silva",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        3,
+        10
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 84,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920002043": {
+      "name": "Erika Carolina Gomes De Souza",
+      "nota_gerais": [
+        3,
+        5,
+        2,
+        4,
+        4
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002697": {
+      "name": "Érika Stefane De Oliveira Salustiano",
+      "nota_gerais": [
+        4,
+        3,
+        3,
+        3,
+        2
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 59,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004022": {
+      "name": "Eros De Carvalho Barbosa",
+      "nota_gerais": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 68,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008132": {
+      "name": "Evison Gomes De Vasconcelos",
+      "nota_gerais": [
+        2,
+        2,
+        3,
+        1,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 68,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005468": {
+      "name": "Fabiano Antunes",
+      "nota_gerais": [
+        2,
+        3,
+        3,
+        4,
+        2
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 58,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920002641": {
+      "name": "Fabiano De Sousa Macedo",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 40,
+      "nota_objetiva": 58,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001347": {
+      "name": "Fabio Da Silva Ferreira",
+      "nota_gerais": [
+        3,
+        2,
+        4,
+        3,
+        4
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 60,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": true
+    },
+    "8920009939": {
+      "name": "Fábio De Souza Brandão",
+      "nota_gerais": [
+        2,
+        3,
+        1,
+        4,
+        2
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 58,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009987": {
+      "name": "Fabíola Da Silva Carvalho Walesko",
+      "nota_gerais": [
+        2,
+        2,
+        2,
+        1,
+        6
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 59,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004032": {
+      "name": "Fabiola Rodrigues Matos Costa",
+      "nota_gerais": [
+        1,
+        3,
+        1,
+        3,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 62,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008065": {
+      "name": "Fagner Rodrigo Do Valle Viana",
+      "nota_gerais": [
+        2,
+        4,
+        4,
+        5,
+        4
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000397": {
+      "name": "Fárida Ximenes Aguiar De Sousa",
+      "nota_gerais": [
+        2,
+        3,
+        3,
+        2,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 70,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001934": {
+      "name": "Fernanda Karine Gomes Duarte",
+      "nota_gerais": [
+        4,
+        5,
+        4,
+        1,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 68,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004450": {
+      "name": "Fernanda Pereira Da Silva",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920008716": {
+      "name": "Fernanda Santos Araujo",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        1,
+        4
+      ],
+      "nota_especifica": 40,
+      "nota_objetiva": 55,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004325": {
+      "name": "Fernanda Santos Pereira",
+      "nota_gerais": [
+        5,
+        4,
+        4,
+        3,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 70,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007222": {
+      "name": "Fernando Alcantara",
+      "nota_gerais": [
+        4,
+        4,
+        5,
+        3,
+        4
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 86,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004526": {
+      "name": "Fernando Alves Nunes",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        5,
+        10
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 93,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000615": {
+      "name": "Fernando Clemente Cunha Bastos",
+      "nota_gerais": [
+        4,
+        5,
+        4,
+        4,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 87,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004458": {
+      "name": "Fernando José Alves Pereira",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        1,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 81,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920000557": {
+      "name": "Filipe De Castro Quelhas",
+      "nota_gerais": [
+        2,
+        4,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 54,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006358": {
+      "name": "Filipe Ferreira Da Silva",
+      "nota_gerais": [
+        2,
+        2,
+        3,
+        1,
+        4
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 56,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008341": {
+      "name": "Flavia Gomes Lacerda",
+      "nota_gerais": [
+        4,
+        2,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004345": {
+      "name": "Flavio Fares Marques Da Silva",
+      "nota_gerais": [
+        5,
+        4,
+        4,
+        3,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008923": {
+      "name": "Flavio Gingeira De Aguiar",
+      "nota_gerais": [
+        3,
+        3,
+        2,
+        2,
+        6
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 62,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008327": {
+      "name": "Flavio Henrique Herval De Castro",
+      "nota_gerais": [
+        5,
+        5,
+        3,
+        4,
+        8
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 93,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000656": {
+      "name": "Francisco De Assis Da Cruz Santana Vilela Braga",
+      "nota_gerais": [
+        4,
+        3,
+        5,
+        2,
+        4
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009889": {
+      "name": "Fredson Bento Da Silva",
+      "nota_gerais": [
+        4,
+        5,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 70,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": true
+    },
+    "8920003563": {
+      "name": "Gabriela Brasil Nogueira",
+      "nota_gerais": [
+        2,
+        3,
+        5,
+        2,
+        2
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 64,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004392": {
+      "name": "Gerson Ferreira Lima",
+      "nota_gerais": [
+        5,
+        5,
+        4,
+        3,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001653": {
+      "name": "Glauber Estacio Da Conceicao Queiroz",
+      "nota_gerais": [
+        2,
+        2,
+        4,
+        5,
+        4
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003743": {
+      "name": "Gledson Bispo Dos Santos",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 62,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004309": {
+      "name": "Gleicy Kellen Dos Santos Faustino",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        4,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 66,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001142": {
+      "name": "Graziela Carolina Gonçalves Dos Santos ",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        3,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920008627": {
+      "name": "Guilherme Daniel Dos Santos",
+      "nota_gerais": [
+        3,
+        4,
+        2,
+        3,
+        6
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 70,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001005": {
+      "name": "Guilherme Diangelis Gomes",
+      "nota_gerais": [
+        1,
+        4,
+        3,
+        2,
+        8
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 70,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009921": {
+      "name": "Guilherme Mendonça De Moraes ",
+      "nota_gerais": [
+        3,
+        1,
+        2,
+        4,
+        8
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009648": {
+      "name": "Guilherme Pereira Larangeira",
+      "nota_gerais": [
+        3,
+        4,
+        5,
+        3,
+        10
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 91,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009324": {
+      "name": "Guilherme Santos De Oliveira ",
+      "nota_gerais": [
+        3,
+        3,
+        4,
+        1,
+        6
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 67,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009404": {
+      "name": "Gustavo Gonçalves Patrão De Souza Oliveira",
+      "nota_gerais": [
+        3,
+        3,
+        5,
+        2,
+        6
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 87,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007779": {
+      "name": "Gustavo Menegaldo Turatti",
+      "nota_gerais": [
+        3,
+        4,
+        5,
+        4,
+        8
+      ],
+      "nota_especifica": 70,
+      "nota_objetiva": 94,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002965": {
+      "name": "Heitor Da Silva Ramos",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 61,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007041": {
+      "name": "Helen Da Silva Monteiro",
+      "nota_gerais": [
+        4,
+        2,
+        4,
+        3,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 67,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920007720": {
+      "name": "Henrique De Araujo Rosa Cruz",
+      "nota_gerais": [
+        5,
+        5,
+        3,
+        3,
+        6
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 90,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002616": {
+      "name": "Henrique Machado Borges",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        1,
+        2
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 63,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009707": {
+      "name": "Henrique Silva Aguiar",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "nota_especifica": 70,
+      "nota_objetiva": 90,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008097": {
+      "name": "Henrique Taite Mendes",
+      "nota_gerais": [
+        4,
+        2,
+        3,
+        2,
+        10
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 79,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005985": {
+      "name": "Henrique Werberich Dos Santos",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        2,
+        8
+      ],
+      "nota_especifica": 74,
+      "nota_objetiva": 96,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002726": {
+      "name": "Hiuslee Nihericsson Tajra De Alencar",
+      "nota_gerais": [
+        4,
+        5,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001728": {
+      "name": "Iara Cristina Da Silva Guimarães",
+      "nota_gerais": [
+        2,
+        2,
+        1,
+        2,
+        6
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 55,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009695": {
+      "name": "Igor Ernesto Ferreira Costa",
+      "nota_gerais": [
+        1,
+        3,
+        4,
+        4,
+        6
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 86,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003679": {
+      "name": "Isabela Soares De Castro",
+      "nota_gerais": [
+        3,
+        2,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 40,
+      "nota_objetiva": 55,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004196": {
+      "name": "Isabel Cristina Silva",
+      "nota_gerais": [
+        4,
+        2,
+        2,
+        2,
+        8
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 74,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008467": {
+      "name": "Isabella Abreu Pereira Pettersen",
+      "nota_gerais": [
+        5,
+        3,
+        4,
+        4,
+        10
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006397": {
+      "name": "Jackeline Grace Da Rocha Pereira",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 40,
+      "nota_objetiva": 54,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004788": {
+      "name": "Jader Aigner De Souza",
+      "nota_gerais": [
+        3,
+        3,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": true
+    },
+    "8920003459": {
+      "name": "Janaina Dos Santos Benvindo",
+      "nota_gerais": [
+        2,
+        3,
+        4,
+        1,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001159": {
+      "name": "Jaqueline Franciele Viana Santos",
+      "nota_gerais": [
+        3,
+        4,
+        5,
+        3,
+        4
+      ],
+      "nota_especifica": 72,
+      "nota_objetiva": 91,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003653": {
+      "name": "Jaqueline Maria Da Silva",
+      "nota_gerais": [
+        3,
+        4,
+        2,
+        2,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004782": {
+      "name": "Jessica Alves Mesquita",
+      "nota_gerais": [
+        3,
+        5,
+        5,
+        5,
+        8
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 90,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002189": {
+      "name": "Jessica Aparecida Da Silva",
+      "nota_gerais": [
+        4,
+        4,
+        2,
+        4,
+        6
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 86,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009240": {
+      "name": "Jhon Alex Ramos Cardoso",
+      "nota_gerais": [
+        2,
+        2,
+        3,
+        4,
+        4
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 61,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920007726": {
+      "name": "João Augusto Dos Santos Guimarães",
+      "nota_gerais": [
+        3,
+        4,
+        2,
+        2,
+        2
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 67,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003935": {
+      "name": "Joao Guilherme Santos Pinheiro De Gusmao",
+      "nota_gerais": [
+        2,
+        2,
+        1,
+        1,
+        6
+      ],
+      "nota_especifica": 40,
+      "nota_objetiva": 52,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003159": {
+      "name": "João Henrique Amorim Battaglin",
+      "nota_gerais": [
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "nota_especifica": 74,
+      "nota_objetiva": 92,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009557": {
+      "name": "Joely Patrícia Machado De Oliveira Marques ",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 63,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009423": {
+      "name": "Johnny Aparecido De Oliveira",
+      "nota_gerais": [
+        4,
+        5,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008198": {
+      "name": "Jonatas Dias Marques Junior",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 36,
+      "nota_objetiva": 50,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920005789": {
+      "name": "Jonathan Schienemayer Finger",
+      "nota_gerais": [
+        2,
+        5,
+        2,
+        4,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 83,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006777": {
+      "name": "Jordan Camisqui",
+      "nota_gerais": [
+        3,
+        4,
+        1,
+        2,
+        2
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 70,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002640": {
+      "name": "Jorge Italo Macêdo Prudêncio De Lima",
+      "nota_gerais": [
+        3,
+        5,
+        5,
+        3,
+        4
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 68,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005335": {
+      "name": "Jose Felipe Pinto De Carvalho",
+      "nota_gerais": [
+        1,
+        4,
+        2,
+        1,
+        6
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 64,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006804": {
+      "name": "José Joaquim De Araújo Neto",
+      "nota_gerais": [
+        4,
+        3,
+        5,
+        1,
+        4
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 69,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002077": {
+      "name": "José Luiz Esteves",
+      "nota_gerais": [
+        4,
+        2,
+        4,
+        1,
+        4
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 67,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000354": {
+      "name": "Josiflania Goncalves De Figueiredo",
+      "nota_gerais": [
+        2,
+        2,
+        3,
+        1,
+        6
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 52,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003548": {
+      "name": "Joyce Paola Teixeira Sobrinho",
+      "nota_gerais": [
+        4,
+        2,
+        3,
+        3,
+        8
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 58,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009239": {
+      "name": "Juan Manuel De Moura Martinez",
+      "nota_gerais": [
+        3,
+        4,
+        2,
+        3,
+        10
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006253": {
+      "name": "Juliana Guimarães Santiago",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009763": {
+      "name": "Juliana Queiroz De Castro",
+      "nota_gerais": [
+        3,
+        2,
+        4,
+        3,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 74,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003711": {
+      "name": "Julio Cesar Ferreira Oliveira",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        4,
+        2
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002053": {
+      "name": "Jussandra Ferreira Da Costa",
+      "nota_gerais": [
+        4,
+        2,
+        3,
+        2,
+        6
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008193": {
+      "name": "Kamila Lima Barros",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 59,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006447": {
+      "name": "Karen Skolimoski Ribeiro",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        3,
+        4
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004512": {
+      "name": "Karina Portugal Figueiredo",
+      "nota_gerais": [
+        2,
+        3,
+        4,
+        3,
+        4
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 70,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008507": {
+      "name": "Karina Reis R Da Luz",
+      "nota_gerais": [
+        3,
+        2,
+        5,
+        1,
+        6
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000565": {
+      "name": "Karla Danielle Moreira Dos Santos",
+      "nota_gerais": [
+        3,
+        3,
+        5,
+        4,
+        2
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005959": {
+      "name": "Karlla Da Silva Torres",
+      "nota_gerais": [
+        5,
+        4,
+        3,
+        1,
+        2
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 65,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009978": {
+      "name": "Kátia Rodrigues Da Cunha",
+      "nota_gerais": [
+        3,
+        4,
+        2,
+        5,
+        2
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": true
+    },
+    "8920006817": {
+      "name": "Katia Sitta Fortini",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920002322": {
+      "name": "Katlin Camara Machado Oliveira Andrade",
+      "nota_gerais": [
+        2,
+        4,
+        5,
+        3,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004693": {
+      "name": "Keila Martins De Assis",
+      "nota_gerais": [
+        4,
+        2,
+        3,
+        3,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005846": {
+      "name": "Kelly Nascimento Dos Santos",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        2,
+        8
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 69,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004384": {
+      "name": "Laiana Sinara Castro Da Silva",
+      "nota_gerais": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 66,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920005991": {
+      "name": "Lara Lisboa Souza ",
+      "nota_gerais": [
+        4,
+        3,
+        2,
+        5,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008136": {
+      "name": "Larissa Horrara De Almeida",
+      "nota_gerais": [
+        5,
+        5,
+        4,
+        1,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 81,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920006110": {
+      "name": "Larissa Tristão Savignon ",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006842": {
+      "name": "Laurizze Carolina Gomes Lima",
+      "nota_gerais": [
+        4,
+        5,
+        5,
+        3,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920005919": {
+      "name": "Leandro Nogueira De Souza Bastos",
+      "nota_gerais": [
+        2,
+        2,
+        2,
+        4,
+        4
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 66,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004171": {
+      "name": "Leandro Santa Rosa Da Costa",
+      "nota_gerais": [
+        4,
+        5,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 83,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003825": {
+      "name": "Leandro Silva De Oliveira",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920008181": {
+      "name": "Leilinay De Lucena Silva",
+      "nota_gerais": [
+        5,
+        4,
+        3,
+        5,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000368": {
+      "name": "Lenilda Ribeiro De Moura",
+      "nota_gerais": [
+        4,
+        1,
+        2,
+        1,
+        8
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 54,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920006948": {
+      "name": "Leonan Garcez Lemes",
+      "nota_gerais": [
+        4,
+        2,
+        3,
+        1,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 70,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009122": {
+      "name": "Leonardo Bianchi Dos Santos",
+      "nota_gerais": [
+        3,
+        4,
+        4,
+        1,
+        6
+      ],
+      "nota_especifica": 76,
+      "nota_objetiva": 94,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005223": {
+      "name": "Leonardo Daniel Martins Araujo",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        3,
+        4
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 66,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001200": {
+      "name": "Leonardo De Carvalho Ferraz",
+      "nota_gerais": [
+        4,
+        2,
+        4,
+        3,
+        10
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 89,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002581": {
+      "name": "Leonardo Ricardo Pomarino Vargas",
+      "nota_gerais": [
+        1,
+        4,
+        4,
+        1,
+        4
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 66,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005748": {
+      "name": "Lethicia Assis Rangel Da Silva ",
+      "nota_gerais": [
+        4,
+        2,
+        4,
+        2,
+        8
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 70,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004920": {
+      "name": "Letícia Adriana Dos Santos Brandao ",
+      "nota_gerais": [
+        2,
+        2,
+        5,
+        3,
+        6
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 70,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920000398": {
+      "name": "Letycia Carolina Ribeiro Antunes",
+      "nota_gerais": [
+        3,
+        3,
+        4,
+        3,
+        2
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 67,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004893": {
+      "name": "Lilian De Oliveira Moura ",
+      "nota_gerais": [
+        4,
+        5,
+        2,
+        1,
+        8
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 58,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002339": {
+      "name": "Lilian Prota Santos Vieira",
+      "nota_gerais": [
+        4,
+        2,
+        4,
+        3,
+        4
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004364": {
+      "name": "Lisangela Chiarelli ",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        2,
+        8
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008022": {
+      "name": "Liz Onishi",
+      "nota_gerais": [
+        4,
+        5,
+        3,
+        3,
+        6
+      ],
+      "nota_especifica": 70,
+      "nota_objetiva": 91,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002195": {
+      "name": "Loise Rodrigues",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        3,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004385": {
+      "name": "Luana Loubet Borges",
+      "nota_gerais": [
+        5,
+        3,
+        2,
+        2,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006435": {
+      "name": "Luana Thaís Acunha Dalla Costa",
+      "nota_gerais": [
+        5,
+        2,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008617": {
+      "name": "Lucas Henrique Santos Costa",
+      "nota_gerais": [
+        5,
+        5,
+        5,
+        1,
+        6
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008494": {
+      "name": "Lucas Werneck Louzada",
+      "nota_gerais": [
+        2,
+        2,
+        4,
+        3,
+        2
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 61,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003664": {
+      "name": "Luciana Avanci Pereira",
+      "nota_gerais": [
+        2,
+        5,
+        2,
+        3,
+        8
+      ],
+      "nota_especifica": 72,
+      "nota_objetiva": 92,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004703": {
+      "name": "Luciana Chaves Santos Vasconcellos",
+      "nota_gerais": [
+        5,
+        3,
+        4,
+        5,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 87,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008318": {
+      "name": "Luciene Braz Ferreira",
+      "nota_gerais": [
+        4,
+        3,
+        3,
+        3,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009436": {
+      "name": "Ludmila Quitéria Souza Dos Santos Gouveia",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        4,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 75,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920000883": {
+      "name": "Luis Felipe Amaral De Freitas ",
+      "nota_gerais": [
+        2,
+        2,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 82,
+      "nota_objetiva": 102,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004371": {
+      "name": "Luis Filipe Fernandes De Oliveira Abbott",
+      "nota_gerais": [
+        3,
+        4,
+        2,
+        2,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003862": {
+      "name": "Luis Gustavo De Andrade Rodrigues",
+      "nota_gerais": [
+        4,
+        2,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 84,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008275": {
+      "name": "Luis Henrique Teles",
+      "nota_gerais": [
+        2,
+        3,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 86,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005000": {
+      "name": "Luis Tiago Chagas Barros",
+      "nota_gerais": [
+        2,
+        1,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 81,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001794": {
+      "name": "Luiza Carneiro Rezende",
+      "nota_gerais": [
+        5,
+        4,
+        3,
+        1,
+        2
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 63,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004748": {
+      "name": "Luiz Carlos De Azevedo Branco",
+      "nota_gerais": [
+        5,
+        4,
+        5,
+        3,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003943": {
+      "name": "Luiz Orione Sousa Nunes",
+      "nota_gerais": [
+        3,
+        2,
+        4,
+        1,
+        2
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 70,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001113": {
+      "name": "Maira Foletto Jost",
+      "nota_gerais": [
+        2,
+        3,
+        2,
+        2,
+        4
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 55,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": true
+    },
+    "8920009345": {
+      "name": "Marcela De Oliveira Loureiro ",
+      "nota_gerais": [
+        5,
+        4,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 86,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009306": {
+      "name": "Marcela Lisboa Carvalho",
+      "nota_gerais": [
+        3,
+        4,
+        4,
+        1,
+        2
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 70,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001189": {
+      "name": "Marcelo Brucoli Sembongi",
+      "nota_gerais": [
+        2,
+        1,
+        4,
+        1,
+        4
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007860": {
+      "name": "Marcelo Cesar Cordeiro Filho",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        2,
+        2
+      ],
+      "nota_especifica": 40,
+      "nota_objetiva": 52,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002757": {
+      "name": "Marcelo Ferreira Boarin",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 92,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002882": {
+      "name": "Marcelo Padoin Canazaro",
+      "nota_gerais": [
+        3,
+        4,
+        4,
+        3,
+        10
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": true
+    },
+    "8920002898": {
+      "name": "Marcelo Santos Conceição",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 52,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008788": {
+      "name": "Marcelo Soares De Castro",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 74,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002710": {
+      "name": "Marcelo Villares Coelho",
+      "nota_gerais": [
+        3,
+        4,
+        5,
+        1,
+        6
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 85,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004166": {
+      "name": "Marcia Cristina De Araujo Teixeira",
+      "nota_gerais": [
+        4,
+        4,
+        2,
+        5,
+        2
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006636": {
+      "name": "Marcia Ramone Antunes Fonseca",
+      "nota_gerais": [
+        4,
+        3,
+        3,
+        1,
+        2
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920005008": {
+      "name": "Marcio Bandeira De Mello De Albuquerque ",
+      "nota_gerais": [
+        3,
+        1,
+        4,
+        3,
+        6
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001367": {
+      "name": "Marcus Antonio Freijanes Maia",
+      "nota_gerais": [
+        4,
+        3,
+        5,
+        3,
+        4
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 85,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001949": {
+      "name": "Marcus Vinícius De Matos Oliveira",
+      "nota_gerais": [
+        4,
+        5,
+        5,
+        2,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 84,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003668": {
+      "name": "Marfisa Heloisa Ferreira Freres",
+      "nota_gerais": [
+        4,
+        3,
+        3,
+        2,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008020": {
+      "name": "Maria Aparecida Teixeira Marinho De Oliveira",
+      "nota_gerais": [
+        3,
+        3,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006674": {
+      "name": "Maria De Fátima Fernandes",
+      "nota_gerais": [
+        3,
+        3,
+        2,
+        2,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002459": {
+      "name": "Mariana Rodrigues De Carvalho",
+      "nota_gerais": [
+        3,
+        5,
+        5,
+        3,
+        6
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009689": {
+      "name": "Mariana Sant'ana Fioravanti De Almeida",
+      "nota_gerais": [
+        4,
+        3,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 54,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920006089": {
+      "name": "Mariana Siqueira Vilela",
+      "nota_gerais": [
+        2,
+        4,
+        4,
+        4,
+        6
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 86,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008939": {
+      "name": "Maria Tereza Costa Gomes De Queiroz",
+      "nota_gerais": [
+        3,
+        4,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 81,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005389": {
+      "name": "Marília Cristina Sassim Jesus",
+      "nota_gerais": [
+        3,
+        1,
+        5,
+        4,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 81,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001832": {
+      "name": "Marina De Sá Dias",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        2,
+        6
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 65,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008917": {
+      "name": "Marina Reis Dos Santos Silva",
+      "nota_gerais": [
+        2,
+        2,
+        3,
+        3,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 70,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001984": {
+      "name": "Marinita Eliara Kommers",
+      "nota_gerais": [
+        3,
+        4,
+        4,
+        4,
+        6
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": true
+    },
+    "8920004176": {
+      "name": "Marissol Da Silva Alves",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006389": {
+      "name": "Marjorie Caroline Costa Lima Grimm",
+      "nota_gerais": [
+        3,
+        2,
+        4,
+        3,
+        8
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 68,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009902": {
+      "name": "Marlon Fernando Schluga",
+      "nota_gerais": [
+        4,
+        5,
+        5,
+        3,
+        8
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 85,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001839": {
+      "name": "Marshal Zorzanelli",
+      "nota_gerais": [
+        4,
+        2,
+        1,
+        2,
+        6
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 53,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001889": {
+      "name": "Marta Maria Dos Santos",
+      "nota_gerais": [
+        2,
+        2,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 51,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008774": {
+      "name": "Massimiliano Alemanno",
+      "nota_gerais": [
+        3,
+        4,
+        5,
+        5,
+        6
+      ],
+      "nota_especifica": 76,
+      "nota_objetiva": 99,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006363": {
+      "name": "Mateus Oliveira Guimarães ",
+      "nota_gerais": [
+        3,
+        3,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003737": {
+      "name": "Matheus Moura Fonseca Santos",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 90,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004274": {
+      "name": "Matheus Thacyo Da Silva",
+      "nota_gerais": [
+        2,
+        2,
+        1,
+        3,
+        8
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 60,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001996": {
+      "name": "Maurílio Eduardo Daros",
+      "nota_gerais": [
+        3,
+        2,
+        2,
+        4,
+        2
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 75,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004838": {
+      "name": "Mayara Da Costa E Silva",
+      "nota_gerais": [
+        5,
+        2,
+        1,
+        4,
+        2
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 64,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003288": {
+      "name": "Mayara Tenório De Melo Silva",
+      "nota_gerais": [
+        5,
+        3,
+        4,
+        4,
+        8
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 88,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009521": {
+      "name": "Melissa Rfodriguez Arnal Da Silva Leite",
+      "nota_gerais": [
+        4,
+        2,
+        3,
+        3,
+        4
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009023": {
+      "name": "Mellissa Lorena Souza Andrade",
+      "nota_gerais": [
+        4,
+        2,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 59,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004290": {
+      "name": "Micael Guerra Cavalcanti",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        1,
+        2
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 63,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006416": {
+      "name": "Michael Forcetto Ferreira",
+      "nota_gerais": [
+        2,
+        3,
+        4,
+        4,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 75,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006120": {
+      "name": "Milena Araguaia De Castro Sá Lima",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        3,
+        6
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 86,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004460": {
+      "name": "Milene Adriana De Araújo Mello Reis",
+      "nota_gerais": [
+        4,
+        5,
+        2,
+        5,
+        6
+      ],
+      "nota_especifica": 40,
+      "nota_objetiva": 62,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009188": {
+      "name": "Miriam Da Silva Lima",
+      "nota_gerais": [
+        3,
+        2,
+        1,
+        5,
+        4
+      ],
+      "nota_especifica": 36,
+      "nota_objetiva": 51,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003219": {
+      "name": "Mirlene De Oliveira Silva",
+      "nota_gerais": [
+        3,
+        4,
+        4,
+        5,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 84,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920010019": {
+      "name": "Moisés Batista Martins De Oliveira",
+      "nota_gerais": [
+        5,
+        3,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 66,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004856": {
+      "name": "Morgana Goulart Da Rosa",
+      "nota_gerais": [
+        3,
+        4,
+        2,
+        4,
+        2
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 65,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920005137": {
+      "name": "Mylena De Nadai Ramalho",
+      "nota_gerais": [
+        3,
+        3,
+        1,
+        2,
+        6
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 65,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001697": {
+      "name": "Naianny Pereira De Jesus",
+      "nota_gerais": [
+        5,
+        2,
+        3,
+        2,
+        6
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 60,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920008960": {
+      "name": "Nathalya Amanda Teixeira Camara",
+      "nota_gerais": [
+        2,
+        4,
+        2,
+        3,
+        2
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 67,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008697": {
+      "name": "Nayara Dos Santos Oliveira",
+      "nota_gerais": [
+        5,
+        4,
+        3,
+        1,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 75,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007794": {
+      "name": "Newton Brito Simão",
+      "nota_gerais": [
+        4,
+        4,
+        5,
+        4,
+        6
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 89,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004528": {
+      "name": "Nubia Nascimento Da Silva",
+      "nota_gerais": [
+        4,
+        4,
+        1,
+        3,
+        2
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004401": {
+      "name": "Octavio Ramos Leal Junior",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 81,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008432": {
+      "name": "Onisvaldo Xavier De Miranda",
+      "nota_gerais": [
+        3,
+        1,
+        3,
+        4,
+        4
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 69,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009682": {
+      "name": "Otacilio Borges Junior",
+      "nota_gerais": [
+        1,
+        2,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 62,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": true
+    },
+    "8920003099": {
+      "name": "Otilia De Sousa Santos",
+      "nota_gerais": [
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 56,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002896": {
+      "name": "Pablo Garcia Passos",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 69,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002482": {
+      "name": "Pablo Runa Galdos Vergne",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        1,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 63,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": true
+    },
+    "8920009516": {
+      "name": "Paloma Ribeiro Pires Simas",
+      "nota_gerais": [
+        4,
+        1,
+        2,
+        3,
+        2
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009783": {
+      "name": "Patrick Monticelli Netto",
+      "nota_gerais": [
+        1,
+        4,
+        4,
+        3,
+        8
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 62,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003944": {
+      "name": "Paula Karine Brito Nunes",
+      "nota_gerais": [
+        2,
+        4,
+        5,
+        4,
+        8
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 83,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002800": {
+      "name": "Paulo Atanael Da Silva",
+      "nota_gerais": [
+        3,
+        3,
+        1,
+        3,
+        2
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 54,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004149": {
+      "name": "Paulo Cesar Balthazar",
+      "nota_gerais": [
+        5,
+        3,
+        3,
+        1,
+        2
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 74,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004584": {
+      "name": "Paulo Henrique Nery",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        4,
+        6
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 83,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008001": {
+      "name": "Paulo Humberto De Siqueira Freire",
+      "nota_gerais": [
+        3,
+        3,
+        4,
+        3,
+        4
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 83,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004866": {
+      "name": "Paulo Roberto Da Cunha",
+      "nota_gerais": [
+        2,
+        2,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 36,
+      "nota_objetiva": 49,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001138": {
+      "name": "Paulo Roberto Sousa Dos Santos",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        1,
+        6
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003898": {
+      "name": "Paulo Solano Soares Ferreira",
+      "nota_gerais": [
+        4,
+        3,
+        5,
+        5,
+        8
+      ],
+      "nota_especifica": 72,
+      "nota_objetiva": 97,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920002737": {
+      "name": "Paulo Vinicius De Lima E Silva",
+      "nota_gerais": [
+        3,
+        3,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 67,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009160": {
+      "name": "Pedro Zulian Lunardi",
+      "nota_gerais": [
+        3,
+        5,
+        5,
+        3,
+        6
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007704": {
+      "name": "Polyana Karina Mendes Ximenes",
+      "nota_gerais": [
+        3,
+        4,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 67,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003191": {
+      "name": "Priscila Cruz Scala",
+      "nota_gerais": [
+        3,
+        1,
+        5,
+        5,
+        8
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005456": {
+      "name": "Priscila Ludwig Brandão",
+      "nota_gerais": [
+        4,
+        3,
+        3,
+        3,
+        8
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 81,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003749": {
+      "name": "Priscilla Gonçalves Da Silva E Souza",
+      "nota_gerais": [
+        5,
+        4,
+        4,
+        5,
+        10
+      ],
+      "nota_especifica": 72,
+      "nota_objetiva": 100,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009657": {
+      "name": "Rafaela Gomes Gonçalves De Carvalho",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        4,
+        2
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003597": {
+      "name": "Rafael Bruno De Souza Nunes",
+      "nota_gerais": [
+        2,
+        2,
+        1,
+        1,
+        6
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 58,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008719": {
+      "name": "Rafael Nunes Ribeiro",
+      "nota_gerais": [
+        5,
+        3,
+        4,
+        3,
+        2
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 67,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": true
+    },
+    "8920009612": {
+      "name": "Rafael Quinalia Da Silva",
+      "nota_gerais": [
+        2,
+        3,
+        5,
+        5,
+        10
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 87,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009013": {
+      "name": "Railson Souza Costa",
+      "nota_gerais": [
+        2,
+        4,
+        5,
+        5,
+        10
+      ],
+      "nota_especifica": 86,
+      "nota_objetiva": 112,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920007864": {
+      "name": "Raphael Da Silva Rodrigues Moura",
+      "nota_gerais": [
+        5,
+        2,
+        2,
+        1,
+        2
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009293": {
+      "name": "Raphael De Almeida Cação ",
+      "nota_gerais": [
+        4,
+        2,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 84,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002168": {
+      "name": "Rayssa Maria Rodrigues Costa",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        1,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008343": {
+      "name": "Regina Cláudia Nascimento Pinheiro",
+      "nota_gerais": [
+        4,
+        2,
+        5,
+        2,
+        2
+      ],
+      "nota_especifica": 40,
+      "nota_objetiva": 55,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009858": {
+      "name": "Reginaldo De Moura Morais",
+      "nota_gerais": [
+        4,
+        5,
+        5,
+        2,
+        8
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007130": {
+      "name": "Renan Veppo Hungria De Almeida",
+      "nota_gerais": [
+        5,
+        4,
+        4,
+        1,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000610": {
+      "name": "Renato Domingues Ferreira",
+      "nota_gerais": [
+        2,
+        2,
+        3,
+        3,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 64,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003681": {
+      "name": "Ricardo Cardoso De Souza",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        4,
+        10
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 92,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006793": {
+      "name": "Ricardo Guimarães Da Rocha Barcelos",
+      "nota_gerais": [
+        4,
+        3,
+        3,
+        3,
+        6
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 69,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007465": {
+      "name": "Ricardo Marques Branquinho",
+      "nota_gerais": [
+        2,
+        4,
+        4,
+        2,
+        2
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 70,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003598": {
+      "name": "Ricardo Ribeiro Bertges",
+      "nota_gerais": [
+        2,
+        5,
+        3,
+        2,
+        6
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 84,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005324": {
+      "name": "Roberta Harumi Pinheiro Sasaki",
+      "nota_gerais": [
+        5,
+        4,
+        3,
+        1,
+        2
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007789": {
+      "name": "Roberta Motta Da Silva Silveira",
+      "nota_gerais": [
+        3,
+        5,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 68,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002090": {
+      "name": "Roberta Sales Muniz Miranda",
+      "nota_gerais": [
+        4,
+        5,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 70,
+      "nota_objetiva": 91,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004237": {
+      "name": "Robert Caggiano",
+      "nota_gerais": [
+        4,
+        5,
+        4,
+        3,
+        10
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 90,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003072": {
+      "name": "Robson Martins Do Carmo",
+      "nota_gerais": [
+        5,
+        3,
+        5,
+        4,
+        8
+      ],
+      "nota_especifica": 74,
+      "nota_objetiva": 99,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003485": {
+      "name": "Rodrigo Resende Do Monte",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        3,
+        6
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003832": {
+      "name": "Rodrigo Rodrigues Moreira",
+      "nota_gerais": [
+        4,
+        3,
+        2,
+        2,
+        6
+      ],
+      "nota_especifica": 68,
+      "nota_objetiva": 85,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003322": {
+      "name": "Rodrigo Santiago Viegas",
+      "nota_gerais": [
+        5,
+        5,
+        4,
+        4,
+        6
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000781": {
+      "name": "Rodrigo Torres Carrilho Da Costa",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        1,
+        2
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006630": {
+      "name": "Rogerio Barcellos Leite",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 70,
+      "nota_objetiva": 90,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003990": {
+      "name": "Ronaldo Marques Gomes",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        3,
+        2
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009059": {
+      "name": "Rosane Do Bomfim Santos Souza",
+      "nota_gerais": [
+        2,
+        5,
+        4,
+        4,
+        6
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 79,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005682": {
+      "name": "Rosinara Da Silva Queiroz Zanardi ",
+      "nota_gerais": [
+        5,
+        2,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 62,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008969": {
+      "name": "Sabrina Boton Trentin",
+      "nota_gerais": [
+        3,
+        4,
+        2,
+        3,
+        2
+      ],
+      "nota_especifica": 40,
+      "nota_objetiva": 54,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004742": {
+      "name": "Sacha De Azevedo Varandas",
+      "nota_gerais": [
+        3,
+        5,
+        2,
+        4,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009611": {
+      "name": "Saimon Claudio Sterf Pires",
+      "nota_gerais": [
+        2,
+        3,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008058": {
+      "name": "Samara Frota De Aguiar",
+      "nota_gerais": [
+        4,
+        2,
+        5,
+        3,
+        2
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005579": {
+      "name": "Samuel Alvarenga De Magalhães Dos Anjos",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        4,
+        4
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 67,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007672": {
+      "name": "Sandy Campos De Lima ",
+      "nota_gerais": [
+        2,
+        3,
+        3,
+        4,
+        2
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 62,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007810": {
+      "name": "Sarah Alves Rosa Moreira",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009178": {
+      "name": "Sara Rodrigues Ximenes Carneiro",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        1,
+        8
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 59,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003883": {
+      "name": "Saulo Souza Kovalski Kaminski",
+      "nota_gerais": [
+        5,
+        5,
+        5,
+        4,
+        10
+      ],
+      "nota_especifica": 76,
+      "nota_objetiva": 105,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008411": {
+      "name": "Scheila Maria Sousa Rodrigues",
+      "nota_gerais": [
+        4,
+        4,
+        5,
+        2,
+        4
+      ],
+      "nota_especifica": 40,
+      "nota_objetiva": 59,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007061": {
+      "name": "Sellene Ghenov",
+      "nota_gerais": [
+        4,
+        4,
+        5,
+        4,
+        10
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 89,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920010040": {
+      "name": "Sergio Augusto Cola Dias",
+      "nota_gerais": [
+        4,
+        4,
+        1,
+        4,
+        2
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003444": {
+      "name": "Sergio Jovem Junior",
+      "nota_gerais": [
+        4,
+        5,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 68,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006129": {
+      "name": "Sheila Gomes Leal Vasconcelos",
+      "nota_gerais": [
+        4,
+        2,
+        3,
+        3,
+        4
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 58,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000830": {
+      "name": "Silvio Anderson Silva Nascimento",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        1,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003692": {
+      "name": "Simara Terra De Souza Ferreira",
+      "nota_gerais": [
+        3,
+        4,
+        3,
+        3,
+        2
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 69,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001478": {
+      "name": "Simone Costa De Albuquerque Souza",
+      "nota_gerais": [
+        2,
+        4,
+        5,
+        4,
+        2
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 63,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009392": {
+      "name": "Simone De Alencar Rodrigues",
+      "nota_gerais": [
+        2,
+        3,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 68,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920001768": {
+      "name": "Sionaldo Antonio Da Silva Roxo",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        3,
+        4
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 53,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009537": {
+      "name": "Sonia Maria Fiori",
+      "nota_gerais": [
+        4,
+        3,
+        3,
+        2,
+        2
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008720": {
+      "name": "Sônia Maria Monteiro Gonçalves ",
+      "nota_gerais": [
+        3,
+        1,
+        2,
+        3,
+        4
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 55,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005884": {
+      "name": "Sonia Regina De Freitas Gouveia Magalhaes",
+      "nota_gerais": [
+        3,
+        3,
+        5,
+        3,
+        6
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007522": {
+      "name": "Stteffano Raimundo Ferreira Leite Siqueira Alves",
+      "nota_gerais": [
+        3,
+        1,
+        4,
+        2,
+        4
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 62,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008986": {
+      "name": "Suzana Alves De Farias Marrocos",
+      "nota_gerais": [
+        2,
+        3,
+        2,
+        5,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 66,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004026": {
+      "name": "Taís Regina Araújo Santana De Castro ",
+      "nota_gerais": [
+        4,
+        2,
+        5,
+        3,
+        8
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 74,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920009834": {
+      "name": "Tales Fernandes Costa",
+      "nota_gerais": [
+        5,
+        4,
+        3,
+        5,
+        8
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 91,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003462": {
+      "name": "Talita Barbosa Matos Peixoto",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        2,
+        8
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 79,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920007330": {
+      "name": "Talita Mendes Lins Martins",
+      "nota_gerais": [
+        2,
+        1,
+        3,
+        4,
+        2
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 62,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920000896": {
+      "name": "Tamires Silva De Andrade",
+      "nota_gerais": [
+        4,
+        5,
+        5,
+        2,
+        10
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002652": {
+      "name": "Tatiane Ioly Canton Souza",
+      "nota_gerais": [
+        2,
+        3,
+        4,
+        4,
+        6
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 61,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008738": {
+      "name": "Tatyane Cristina Alves",
+      "nota_gerais": [
+        3,
+        1,
+        5,
+        5,
+        6
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 64,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003209": {
+      "name": "Taylon Brutus Barros Steffens",
+      "nota_gerais": [
+        5,
+        4,
+        3,
+        3,
+        2
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 71,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002073": {
+      "name": "Thaciana Yara Gomes De Medeiros",
+      "nota_gerais": [
+        4,
+        5,
+        5,
+        5,
+        8
+      ],
+      "nota_especifica": 66,
+      "nota_objetiva": 93,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005375": {
+      "name": "Thaís Araujo Martins De Oliveira",
+      "nota_gerais": [
+        5,
+        3,
+        5,
+        2,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007910": {
+      "name": "Thais Gonçalves De Alencar",
+      "nota_gerais": [
+        4,
+        3,
+        2,
+        4,
+        2
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 63,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006543": {
+      "name": "Thais Manhaes Alves Soares",
+      "nota_gerais": [
+        3,
+        4,
+        5,
+        4,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 84,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004905": {
+      "name": "Thais Sena Schettino",
+      "nota_gerais": [
+        3,
+        2,
+        5,
+        2,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 74,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006730": {
+      "name": "Thales Stivaletti Filgueiras Da Fonseca",
+      "nota_gerais": [
+        4,
+        3,
+        2,
+        5,
+        8
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003236": {
+      "name": "Thalita Knupp Almeida De Carvalho",
+      "nota_gerais": [
+        3,
+        3,
+        5,
+        4,
+        4
+      ],
+      "nota_especifica": 74,
+      "nota_objetiva": 93,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003700": {
+      "name": "Thiago Trajano Santos Da Silva",
+      "nota_gerais": [
+        2,
+        1,
+        3,
+        2,
+        8
+      ],
+      "nota_especifica": 38,
+      "nota_objetiva": 54,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920007582": {
+      "name": "Ulysses Ferreira Da Silva Araujo",
+      "nota_gerais": [
+        3,
+        4,
+        2,
+        4,
+        2
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008843": {
+      "name": "Valdeck Ribeiro Dos Santos",
+      "nota_gerais": [
+        4,
+        4,
+        5,
+        3,
+        10
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003831": {
+      "name": "Vanessa Maria Pereira Blanco",
+      "nota_gerais": [
+        5,
+        4,
+        4,
+        1,
+        6
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 80,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007754": {
+      "name": "Vanessa Pires Valente",
+      "nota_gerais": [
+        3,
+        4,
+        4,
+        2,
+        8
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920002267": {
+      "name": "Vera Lucia De Oliveira Almeida",
+      "nota_gerais": [
+        3,
+        3,
+        5,
+        4,
+        10
+      ],
+      "nota_especifica": 72,
+      "nota_objetiva": 97,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009389": {
+      "name": "Victor Hugo Silva De Souza",
+      "nota_gerais": [
+        2,
+        3,
+        4,
+        2,
+        6
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 63,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920006763": {
+      "name": "Villen Raphael Lima Cordeiro",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        3,
+        6
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005504": {
+      "name": "Vinícius Araújo De Lima",
+      "nota_gerais": [
+        4,
+        2,
+        2,
+        3,
+        8
+      ],
+      "nota_especifica": 74,
+      "nota_objetiva": 93,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004711": {
+      "name": "Vítor Abranches",
+      "nota_gerais": [
+        5,
+        4,
+        3,
+        2,
+        6
+      ],
+      "nota_especifica": 72,
+      "nota_objetiva": 92,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920003245": {
+      "name": "Vitor De Holanda Meireles Viana",
+      "nota_gerais": [
+        3,
+        3,
+        1,
+        1,
+        4
+      ],
+      "nota_especifica": 44,
+      "nota_objetiva": 56,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920007918": {
+      "name": "Vitor Gomes Soares",
+      "nota_gerais": [
+        4,
+        5,
+        2,
+        2,
+        4
+      ],
+      "nota_especifica": 42,
+      "nota_objetiva": 59,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008598": {
+      "name": "Vitor Lucchesi Junior",
+      "nota_gerais": [
+        4,
+        5,
+        3,
+        4,
+        2
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 76,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004953": {
+      "name": "Vítor Marinho Magliano",
+      "nota_gerais": [
+        4,
+        2,
+        3,
+        2,
+        4
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 69,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003610": {
+      "name": "Viviane Pinheiro Lourenço Castro",
+      "nota_gerais": [
+        4,
+        2,
+        4,
+        1,
+        6
+      ],
+      "nota_especifica": 56,
+      "nota_objetiva": 73,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920009212": {
+      "name": "Vivian Geanne Fonseca Rodrigues",
+      "nota_gerais": [
+        4,
+        2,
+        4,
+        2,
+        8
+      ],
+      "nota_especifica": 62,
+      "nota_objetiva": 82,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006577": {
+      "name": "Vivian Silveira Valim Soares",
+      "nota_gerais": [
+        4,
+        3,
+        4,
+        4,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 69,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920000290": {
+      "name": "Wagner Christiano Sade Da Cunha",
+      "nota_gerais": [
+        5,
+        4,
+        4,
+        2,
+        10
+      ],
+      "nota_especifica": 64,
+      "nota_objetiva": 89,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008845": {
+      "name": "Wallace David Souza",
+      "nota_gerais": [
+        1,
+        2,
+        4,
+        2,
+        8
+      ],
+      "nota_especifica": 52,
+      "nota_objetiva": 69,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": true
+    },
+    "8920009051": {
+      "name": "Wallace Nunes De Menezes",
+      "nota_gerais": [
+        3,
+        2,
+        3,
+        4,
+        4
+      ],
+      "nota_especifica": 48,
+      "nota_objetiva": 64,
+      "titulos": false,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920005123": {
+      "name": "Wendel Gomes Ferri",
+      "nota_gerais": [
+        4,
+        1,
+        3,
+        1,
+        4
+      ],
+      "nota_especifica": 50,
+      "nota_objetiva": 63,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920003441": {
+      "name": "Wendy Almeida De Araújo Becker ",
+      "nota_gerais": [
+        4,
+        3,
+        1,
+        2,
+        4
+      ],
+      "nota_especifica": 58,
+      "nota_objetiva": 72,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920004314": {
+      "name": "Wilbson Lira Jorge",
+      "nota_gerais": [
+        4,
+        4,
+        4,
+        4,
+        2
+      ],
+      "nota_especifica": 60,
+      "nota_objetiva": 78,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920004356": {
+      "name": "William Fernando De Melo Oliveira",
+      "nota_gerais": [
+        5,
+        5,
+        3,
+        4,
+        8
+      ],
+      "nota_especifica": 74,
+      "nota_objetiva": 99,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920008409": {
+      "name": "Wilmara Ferreira Dias",
+      "nota_gerais": [
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 61,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    },
+    "8920001922": {
+      "name": "Wilnir Ressutti Junior",
+      "nota_gerais": [
+        3,
+        4,
+        5,
+        3,
+        8
+      ],
+      "nota_especifica": 54,
+      "nota_objetiva": 77,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": false,
+      "cota_pcd": false
+    },
+    "8920006714": {
+      "name": "Yana Carvalho Do Nascimento Marques",
+      "nota_gerais": [
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "nota_especifica": 46,
+      "nota_objetiva": 59,
+      "titulos": true,
+      "nota_titulos": 0,
+      "cota_pnp": true,
+      "cota_pcd": false
+    }
+  }
+}

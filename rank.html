@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranking - PSS/MGI/2024 (AOCP)</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.1.8/css/dataTables.dataTables.css" />
+    <script src="https://cdn.datatables.net/2.1.8/js/dataTables.js"></script>
+</head>
+
+<body>
+    <div>
+        <!-- <h2 class="text-center mt-2">Gabaritos</h2> -->
+        <select onchange="loadData()" id="selectJob"
+            class="form-select bg-secondary bg-gradient text-white text-center fs-3" aria-label="Seleção de Gabarito">
+            <option selected="">Selecione um CARGO</option>
+        </select>
+    </div>
+    <table id="tableRank" class="table caption">
+        <caption class="text-center">Powered by <a href="https://datatables.net/" target="_blank">DataTables</a>
+        </caption>
+        <thead>
+            <tr>
+                <th class="text-center" scope="col">Inscrição</th>
+                <th class="text-center" scope="col">Nome</th>
+                <th tooltip="Língua Portuguesa" class="text-center" scope="col">NG(1)</th>
+                <th tooltip="Raciocínio Lógico" class="text-center" scope="col">NG(2)</th>
+                <th tooltip="Direito Administrativo" class="text-center" scope="col">NG(3)</th>
+                <th tooltip="Gestão noSetor Público" class="text-center" scope="col">NG(4)</th>
+                <th tooltip="Governo Digital" class="text-center" scope="col">NG(5)</th>
+                <th tooltip="Nota Específica" class="text-center" scope="col">NE</th>
+                <th tooltip="Nota Objetiva" class="text-center" scope="col">NO</th>
+                <th tooltip="Nota Títulos" class="text-center" scope="col">NT</th>
+                <th tooltip="Nota Final" class="text-center" scope="col">NF</th>
+                <th tooltip="Classificação Preliminar" class="text-center" scope="col">#Rank</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</body>
+<script>
+    (async () => {
+        cargos = await fetch("data/map.json").then(r => r.json())
+        Object.entries(cargos).forEach(([k, v]) => {
+            selectJob = document.getElementById("selectJob")
+            selectJob.insertAdjacentHTML("beforeend", `<option value="${v.path}">${v.name}</option>`)
+            loadData()
+        })
+    })()
+</script>
+<script>
+    tbody = document.querySelector('table tbody')
+    trString = (rank, data) => {
+        let badges = `${data.cota_pnp ? '<span class="badge text-bg-warning">PNP</span>' : ''
+            } ${data.cota_pcd ? '<span class="badge text-bg-info">PCD</span>' : ''
+            }`
+        return `<tr>
+            <th class="text-center" scope="row">${data.inscricao}</th>
+            <td>${data.name} ${badges}</td>
+            <td class="text-center">${data.nota_gerais[0]}</td>
+            <td class="text-center">${data.nota_gerais[1]}</td>
+            <td class="text-center">${data.nota_gerais[2]}</td>
+            <td class="text-center">${data.nota_gerais[3]}</td>
+            <td class="text-center">${data.nota_gerais[4]}</td>
+            <td class="text-center">${data.nota_especifica}</td>
+            <td class="text-center">${data.nota_objetiva}</td>
+            <td class="text-center">${data.nota_titulos}</td>
+            <td class="text-center">${data.nota_final}</td>
+            <td class="text-center"></td>
+        </tr>
+`
+    }
+
+    async function loadData() {
+        dataPath = selectJob.value == "Selecione um CARGO" ? selectJob.options[1].value : selectJob.value
+        dataJob = await fetch(dataPath).then(r => r.json())
+        tableJob = Object.entries(dataJob.candidatos)
+            .filter(([k, v]) => v.titulos)
+            .map(([k, v]) => Object.assign(v, { inscricao: k, nota_final: v.nota_objetiva + v.nota_titulos }))
+            .sort((a, b) => b.nota_final - a.nota_final)
+            .forEach((data, idx) => tbody.insertAdjacentHTML('beforeend', trString(idx + 1, data)))
+        //.map(([k, v], idx) => [k, v.name, v.nota_objetiva, v.nota_titulos, v.nota_objetiva + v.nota_titulos, idx])
+
+        tableRank = table = $('#tableRank').DataTable({
+            paging: false,
+            responsive: true,
+            layout: {
+                topStart: 'info',
+                topEnd: 'search',
+                bottomStart: '',
+                bottomEnd: ''
+            },
+            columns: [
+                { name: 'inscricao' },
+                { name: 'name' },
+                { name: 'nota_lp' },
+                { name: 'nota_rlm' },
+                { name: 'nota_dadm' },
+                { name: 'nota_gespub' },
+                { name: 'nota_egov' },
+                { name: 'nota_especifica' },
+                { name: 'nota_objetiva' },
+                { name: 'nota_titulos' },
+                { name: 'nota_final' },
+                { name: 'rank' }
+            ],
+            order: [
+                { name: 'nota_final', dir: 'desc' },
+                { name: 'nota_especifica', dir: 'desc' },
+                { name: 'nota_lp', dir: 'desc' },
+                { name: 'nota_rlm', dir: 'desc' },
+                { name: 'nota_dadm', dir: 'desc' },
+                { name: 'nota_gespub', dir: 'desc' },
+                { name: 'nota_egov', dir: 'desc' }
+            ],
+            initComplete: function () {
+                this.api().columns().header().to$().each(function () {
+                    $(this).attr('title', $(this).attr('tooltip'))
+                    //console.log($(this).attr('tooltip'))
+                })
+            }
+        })
+        // tableRank.rows.add(c401_table).draw()
+        tableRank
+            .on('order.dt search.dt', function () {
+                let i = 1;
+
+                table
+                    .cells(null, 11, { search: 'applied', order: 'applied' })
+                    .every(function (cell, idx) {
+                        this.data(i++);
+
+                    });
+
+                let tableRows = Array.from(document.querySelectorAll('table tbody tr'))
+                // console.log(tableRank.search())
+                switch (tableRank.search()) {
+                    case '':
+                        console.log('Switch Case (EMPTY) ==', tableRank.search())
+                        tableRows.slice(0, dataJob.vagas.ampla).forEach(tr => tr.classList.add("table-success"))
+                        break
+                    case 'PNP':
+                        console.log('Switch Case (PNP) ==', tableRank.search())
+                        tableRows.slice(0, dataJob.vagas.pnp).forEach(tr => tr.classList.add("table-success"))
+                        break
+                    case 'PCD':
+                        console.log('Switch Case (PCD) ==', tableRank.search())
+                        tableRows.slice(0, dataJob.vagas.pcd).forEach(tr => tr.classList.add("table-success"))
+                        break
+                    default:
+                        tableRows.forEach(tr => tr.classList.remove("table-success"))
+
+                }
+            })
+            .draw();
+
+    }
+</script>
+
+</html>
