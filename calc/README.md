@@ -11,7 +11,7 @@
 
 ### Conversas / MeetUp
 
-* Grupo de Candidatos no Telegram: [t.me/processoSeletivoSimplificadoMGI](t.me/processoSeletivoSimplificadoMGI)
+* Grupo de Candidatos no Telegram: [t.me/processoSeletivoSimplificadoMGI](https://t.me/processoSeletivoSimplificadoMGI)
 
 ### Colaborações
 
