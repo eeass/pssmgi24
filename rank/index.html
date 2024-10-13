@@ -49,18 +49,6 @@
     </table>
 </body>
 <script>
-
-    function reloadData() {
-            if (tableRank) {
-                console.log(tableRank)
-                $('#tableRank').DataTable().destroy();
-                // $('#tableRank').empty(); // empty in case the columns change
-                loadData()
-            } else {
-                loadData()
-            }
-    }
-
     (async () => {
         cargos = await fetch("data/map.json").then(r => r.json())
         Object.entries(cargos).forEach(([k, v]) => {
@@ -93,22 +81,69 @@
 `
     }
 
-    
+    async function reloadData() {
+        dataPath = selectJob.value == "Selecione um CARGO" ? selectJob.options[1].value : selectJob.value
+        dataJob = await fetch(dataPath).then(r => r.json())
+        tableJob = Object.entries(dataJob.candidatos)
+            .filter(([k, v]) => v.titulos)
+            .map(([k, v]) => {
+                let badges = ` ${v.cota_pnp ? '<span class="badge text-bg-warning">PNP</span>' : ''
+                    } ${v.cota_pcd ? '<span class="badge text-bg-info">PCD</span>' : ''}`
+                Object.assign(v, { inscricao: k, nota_final: v.nota_objetiva + v.nota_titulos })
+                let data_row = [
+                    v.inscricao,
+                    v.name + badges,
+                    ...v.nota_gerais,
+                    v.nota_especifica,
+                    v.nota_objetiva,
+                    v.nota_titulos,
+                    v.nota_final,
+                    ''
+                ]
+                return data_row
+            })
+            .sort((a, b) => b.nota_final - a.nota_final)
+
+        tableRank.clear()
+        tableRank.rows.add(tableJob)
+        tableRank.columns.adjust().draw();
+
+        tableRows = Array.from(document.querySelectorAll('table tbody tr'))
+        if (dataJob.vagas) {
+            tableRows.slice(0, dataJob.vagas.ampla)
+                .forEach(tr => tr.classList.add("table-success"))
+            tableRows.slice(dataJob.vagas.ampla)
+                .forEach(tr => tr.classList.remove("table-success"))
+        }
+    }
 
     async function loadData() {
         dataPath = selectJob.value == "Selecione um CARGO" ? selectJob.options[1].value : selectJob.value
         dataJob = await fetch(dataPath).then(r => r.json())
         tableJob = Object.entries(dataJob.candidatos)
             .filter(([k, v]) => v.titulos)
-            .map(([k, v]) => Object.assign(v, { inscricao: k, nota_final: v.nota_objetiva + v.nota_titulos }))
+            .map(([k, v]) => {
+                let badges = ` ${v.cota_pnp ? '<span class="badge text-bg-warning">PNP</span>' : ''
+                    } ${v.cota_pcd ? '<span class="badge text-bg-info">PCD</span>' : ''}`
+                Object.assign(v, { inscricao: k, nota_final: v.nota_objetiva + v.nota_titulos })
+                let data_row = [
+                    v.inscricao,
+                    v.name + badges,
+                    ...v.nota_gerais,
+                    v.nota_especifica,
+                    v.nota_objetiva,
+                    v.nota_titulos,
+                    v.nota_final,
+                    ''
+                ]
+                return data_row
+            })
             .sort((a, b) => b.nota_final - a.nota_final)
-            .forEach((data, idx) => tbody.insertAdjacentHTML('beforeend', trString(idx + 1, data)))
-        //.map(([k, v], idx) => [k, v.name, v.nota_objetiva, v.nota_titulos, v.nota_objetiva + v.nota_titulos, idx])
-
+        console.log(tableJob)
 
         tableRank = table = $('#tableRank').DataTable({
             paging: false,
-            responsive: true,
+            responsive: false,
             layout: {
                 topStart: 'info',
                 topEnd: 'search',
@@ -116,18 +151,18 @@
                 bottomEnd: ''
             },
             columns: [
-                { name: 'inscricao' },
+                { name: 'inscricao', className: "text-center" },
                 { name: 'name' },
-                { name: 'nota_lp' },
-                { name: 'nota_rlm' },
-                { name: 'nota_dadm' },
-                { name: 'nota_gespub' },
-                { name: 'nota_egov' },
-                { name: 'nota_especifica' },
-                { name: 'nota_objetiva' },
-                { name: 'nota_titulos' },
-                { name: 'nota_final' },
-                { name: 'rank' }
+                { name: 'nota_lp', className: "text-center" },
+                { name: 'nota_rlm', className: "text-center" },
+                { name: 'nota_dadm', className: "text-center" },
+                { name: 'nota_gespub', className: "text-center" },
+                { name: 'nota_egov', className: "text-center" },
+                { name: 'nota_especifica', className: "text-center" },
+                { name: 'nota_objetiva', className: "text-center" },
+                { name: 'nota_titulos', className: "text-center" },
+                { name: 'nota_final', className: "text-center" },
+                { name: 'rank', className: "text-center" }
             ],
             order: [
                 { name: 'nota_final', dir: 'desc' },
@@ -145,40 +180,60 @@
                 })
             }
         })
-        // tableRank.rows.add(c401_table).draw()
-        tableRank
-            .on('order.dt search.dt', function () {
-                let i = 1;
 
-                table
-                    .cells(null, 11, { search: 'applied', order: 'applied' })
-                    .every(function (cell, idx) {
-                        this.data(i++);
-
-                    });
-
-                let tableRows = Array.from(document.querySelectorAll('table tbody tr'))
-                // console.log(tableRank.search())
+        $('input')
+            .on('keyup', function () {
+                let firstRow = document.querySelectorAll('table tbody tr')[0].cells[1].innerText
+                // console.log('keyUP =>',firstRow);
+                // tableRows = []
+                console.log(tableRank.search())
                 switch (tableRank.search()) {
                     case '':
+                        tableRows = Array.from(document.querySelectorAll('table tbody tr'))
                         console.log('Switch Case (EMPTY) ==', tableRank.search())
-                        tableRows.slice(0, dataJob.vagas.ampla).forEach(tr => tr.classList.add("table-success"))
+                        if (dataJob.vagas) {
+                            tableRows.slice(0, dataJob.vagas.ampla)
+                                .forEach(tr => tr.classList.add("table-success"))
+                            tableRows.slice(dataJob.vagas.ampla)
+                                .forEach(tr => tr.classList.remove("table-success"))
+                        }
                         break
                     case 'PNP':
+                        tableRows = Array.from(document.querySelectorAll('table tbody tr'))
                         console.log('Switch Case (PNP) ==', tableRank.search())
-                        tableRows.slice(0, dataJob.vagas.pnp).forEach(tr => tr.classList.add("table-success"))
+                        if (dataJob.vagas) {
+                            tableRows.slice(0, dataJob.vagas.pnp)
+                                .forEach(tr => tr.classList.add("table-success"))
+                            tableRows.slice(dataJob.vagas.pnp)
+                                .forEach(tr => tr.classList.remove("table-success"))
+                        }
                         break
                     case 'PCD':
+                        tableRows = Array.from(document.querySelectorAll('table tbody tr'))
                         console.log('Switch Case (PCD) ==', tableRank.search())
-                        tableRows.slice(0, dataJob.vagas.pcd).forEach(tr => tr.classList.add("table-success"))
+                        if (dataJob.vagas) {
+                            tableRows.slice(0, dataJob.vagas.pcd)
+                                .forEach(tr => tr.classList.add("table-success"))
+                            tableRows.slice(dataJob.vagas.pcd).
+                                forEach(tr => tr.classList.remove("table-success"))
+                        }
                         break
                     default:
+                        tableRows = Array.from(document.querySelectorAll('table tbody tr'))
                         tableRows.forEach(tr => tr.classList.remove("table-success"))
-
                 }
-            })
-            .draw();
+            });
 
+        tableRank.rows.add(tableJob)
+        tableRank.columns.adjust().draw();
+
+        tableRows = Array.from(document.querySelectorAll('table tbody tr'))
+        if (dataJob.vagas) {
+            tableRows.slice(0, dataJob.vagas.ampla)
+                .forEach(tr => tr.classList.add("table-success"))
+            tableRows.slice(dataJob.vagas.ampla)
+                .forEach(tr => tr.classList.remove("table-success"))
+        }
     }
 </script>
 
