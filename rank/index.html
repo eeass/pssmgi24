@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -20,7 +20,7 @@
 <body>
     <div>
         <!-- <h2 class="text-center mt-2">Gabaritos</h2> -->
-        <select onchange="loadData()" id="selectJob"
+        <select onchange="reloadData()" id="selectJob"
             class="form-select bg-secondary bg-gradient text-white text-center fs-3" aria-label="Seleção de Gabarito">
             <option selected="">Selecione um CARGO</option>
         </select>
@@ -49,6 +49,18 @@
     </table>
 </body>
 <script>
+
+    function reloadData() {
+            if (tableRank) {
+                console.log(tableRank)
+                $('#tableRank').DataTable().destroy();
+                // $('#tableRank').empty(); // empty in case the columns change
+                loadData()
+            } else {
+                loadData()
+            }
+    }
+
     (async () => {
         cargos = await fetch("data/map.json").then(r => r.json())
         Object.entries(cargos).forEach(([k, v]) => {
@@ -81,6 +93,8 @@
 `
     }
 
+    
+
     async function loadData() {
         dataPath = selectJob.value == "Selecione um CARGO" ? selectJob.options[1].value : selectJob.value
         dataJob = await fetch(dataPath).then(r => r.json())
@@ -90,6 +104,7 @@
             .sort((a, b) => b.nota_final - a.nota_final)
             .forEach((data, idx) => tbody.insertAdjacentHTML('beforeend', trString(idx + 1, data)))
         //.map(([k, v], idx) => [k, v.name, v.nota_objetiva, v.nota_titulos, v.nota_objetiva + v.nota_titulos, idx])
+
 
         tableRank = table = $('#tableRank').DataTable({
             paging: false,
