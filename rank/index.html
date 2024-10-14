@@ -139,12 +139,20 @@
                 return data_row
             })
             .sort((a, b) => b.nota_final - a.nota_final)
+            // .map((arr,idx) => [...arr,idx + 1])
+
         console.log(tableJob)
 
         tableRank = table = $('#tableRank').DataTable({
             paging: false,
             responsive: false,
             layout: {
+                top: {
+                    div: {
+                        className: "text-center",
+                        html: '<h4><a href="https://github.com/eeass/pssmgi24" target="_blank"><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/240px-GitHub_Invertocat_Logo.svg.png"></a></h4>'
+                    }
+                },
                 topStart: 'info',
                 topEnd: 'search',
                 bottomStart: '',
@@ -186,7 +194,7 @@
                 let firstRow = document.querySelectorAll('table tbody tr')[0].cells[1].innerText
                 // console.log('keyUP =>',firstRow);
                 // tableRows = []
-                //console.log(tableRank.search())
+                console.log(tableRank.search())
                 switch (tableRank.search()) {
                     case '':
                         tableRows = Array.from(document.querySelectorAll('table tbody tr'))
@@ -225,7 +233,20 @@
             });
 
         tableRank.rows.add(tableJob)
-        tableRank.columns.adjust().draw();
+        tableRank.columns.adjust()
+
+        tableRank
+            .on('order.dt search.dt', function () {
+                let i = 1;
+
+                table
+                    .cells(null, 11, { search: 'applied', order: 'applied' })
+                    .every(function (cell, idx) {
+                        this.data(i++);
+
+                    });
+            })
+            .draw();
 
         tableRows = Array.from(document.querySelectorAll('table tbody tr'))
         if (dataJob.vagas) {
