@@ -195,7 +195,7 @@
                 // console.log('keyUP =>',firstRow);
                 // tableRows = []
                 console.log(tableRank.search())
-                switch (tableRank.search()) {
+                switch (tableRank.search().toUpperCase()) {
                     case '':
                         tableRows = Array.from(document.querySelectorAll('table tbody tr'))
                         console.log('Switch Case (EMPTY) ==', tableRank.search())
@@ -207,7 +207,6 @@
                         }
                         break
                     case 'PNP': 
-                    case: 'pnp': // Multiple Cases
                         tableRows = Array.from(document.querySelectorAll('table tbody tr'))
                         console.log('Switch Case (PNP) ==', tableRank.search())
                         if (dataJob.vagas) {
@@ -218,7 +217,6 @@
                         }
                         break
                     case 'PCD': 
-                    case: 'pcp': // Multiple Cases
                         tableRows = Array.from(document.querySelectorAll('table tbody tr'))
                         console.log('Switch Case (PCD) ==', tableRank.search())
                         if (dataJob.vagas) {
