@@ -1,8 +1,8 @@
 {
   "vagas": {
-    "ampla":22,
-    "pcd":2,
-    "pnp":6
+    "ampla": 22,
+    "pcd": 2,
+    "pnp": 6
   },
   "candidatos": {
     "8920000135": {
@@ -19,7 +19,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000135",
+      "nota_final": 77
     },
     "8920007424": {
       "name": "Adonis Arantes De Souza",
@@ -33,9 +35,11 @@
       "nota_especifica": 74,
       "nota_objetiva": 100,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007424",
+      "nota_final": 100
     },
     "8920009973": {
       "name": "Adriana Soares De Abreu",
@@ -49,9 +53,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 75,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009973",
+      "nota_final": 75
     },
     "8920003725": {
       "name": "Adriely Santiago De Toledo",
@@ -65,9 +71,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 79,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003725",
+      "nota_final": 79
     },
     "8920006933": {
       "name": "Alessandra Rosa Cecilio Pimenta Petrassi",
@@ -83,7 +91,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920006933",
+      "nota_final": 61
     },
     "8920006888": {
       "name": "Alexandre Engelhardt ",
@@ -115,7 +125,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001716",
+      "nota_final": 83
     },
     "8920004240": {
       "name": "Alexandre Ricardo Da Silva",
@@ -131,7 +143,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004240",
+      "nota_final": 64
     },
     "8920002777": {
       "name": "Alex De Oliveira Meireles",
@@ -147,7 +161,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002777",
+      "nota_final": 89
     },
     "8920006155": {
       "name": "Alexsander Da Silva Oliveira",
@@ -161,9 +177,11 @@
       "nota_especifica": 54,
       "nota_objetiva": 73,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006155",
+      "nota_final": 73
     },
     "8920007925": {
       "name": "Aline De Mesquita Pereira Viegas",
@@ -177,9 +195,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 82,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007925",
+      "nota_final": 82
     },
     "8920006792": {
       "name": "Aline Doano Silva",
@@ -193,9 +213,11 @@
       "nota_especifica": 52,
       "nota_objetiva": 75,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 0.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006792",
+      "nota_final": 75
     },
     "8920010002": {
       "name": "Allana Carolyne De Figueiredo Tavares",
@@ -227,7 +249,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003261",
+      "nota_final": 71
     },
     "8920006187": {
       "name": "Ana Carolina Finotti Azeredo",
@@ -243,7 +267,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006187",
+      "nota_final": 98
     },
     "8920004348": {
       "name": "Ana Cláudia De Souza",
@@ -259,7 +285,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004348",
+      "nota_final": 80
     },
     "8920004277": {
       "name": "Ana Claudia Munhoz",
@@ -273,9 +301,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 74,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004277",
+      "nota_final": 74
     },
     "8920003765": {
       "name": "Ana Lilia Lima Dos Santos",
@@ -291,7 +321,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003765",
+      "nota_final": 69
     },
     "8920003195": {
       "name": "Ana Luisa Aires Ribeiro",
@@ -307,7 +339,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003195",
+      "nota_final": 78
     },
     "8920004377": {
       "name": "Ana Luisa Xavier Da Costa",
@@ -323,7 +357,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004377",
+      "nota_final": 66
     },
     "8920009528": {
       "name": "Ana Luiza Fernandes Vasconcelos",
@@ -339,7 +375,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009528",
+      "nota_final": 83
     },
     "8920002556": {
       "name": "Ana Paula Gouveia Carneiro",
@@ -353,9 +391,11 @@
       "nota_especifica": 68,
       "nota_objetiva": 83,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002556",
+      "nota_final": 83
     },
     "8920010008": {
       "name": "Anderson Francisco Barbosa Da Silva",
@@ -387,7 +427,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005053",
+      "nota_final": 82
     },
     "8920007650": {
       "name": "Andréa Machado Costa",
@@ -403,7 +445,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007650",
+      "nota_final": 64
     },
     "8920001751": {
       "name": "Andre Luiz Franco Braga",
@@ -419,7 +463,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001751",
+      "nota_final": 78
     },
     "8920006064": {
       "name": "Andressa Monteiro Borges",
@@ -465,9 +511,11 @@
       "nota_especifica": 76,
       "nota_objetiva": 101,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003864",
+      "nota_final": 101
     },
     "8920008256": {
       "name": "Angelyca Cristina Linhares E Silva",
@@ -497,9 +545,11 @@
       "nota_especifica": 60,
       "nota_objetiva": 76,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000676",
+      "nota_final": 76
     },
     "8920009663": {
       "name": "Antonio Miguel Da Conceição",
@@ -529,9 +579,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 81,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000150",
+      "nota_final": 81
     },
     "8920008661": {
       "name": "Ariane Nogueira Vieira",
@@ -547,7 +599,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008661",
+      "nota_final": 85
     },
     "8920004419": {
       "name": "Aurea Macedo Lopes",
@@ -561,9 +615,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 82,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004419",
+      "nota_final": 82
     },
     "8920002091": {
       "name": "Aurea Ribeiro Carvalho Leitao",
@@ -579,7 +635,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002091",
+      "nota_final": 76
     },
     "8920006818": {
       "name": "Bartholomeo Oliveira Barcelos",
@@ -595,7 +653,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006818",
+      "nota_final": 75
     },
     "8920007640": {
       "name": "Bruna Denadai Ximenes",
@@ -627,7 +687,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008842",
+      "nota_final": 84
     },
     "8920009037": {
       "name": "Bruna Lopes Becker Lorentz",
@@ -641,9 +703,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 83,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009037",
+      "nota_final": 83
     },
     "8920001083": {
       "name": "Bruno Almeida Brasil",
@@ -659,7 +723,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001083",
+      "nota_final": 79
     },
     "8920009512": {
       "name": "Bruno De Oliveira Garcia ",
@@ -675,7 +741,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009512",
+      "nota_final": 76
     },
     "8920003975": {
       "name": "Bruno Fernandes",
@@ -689,9 +757,11 @@
       "nota_especifica": 48,
       "nota_objetiva": 71,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003975",
+      "nota_final": 71
     },
     "8920004930": {
       "name": "Bruno Fuzeira Chaul",
@@ -721,9 +791,11 @@
       "nota_especifica": 54,
       "nota_objetiva": 74,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003482",
+      "nota_final": 74
     },
     "8920006946": {
       "name": "Camila Pereira Cota Brostel",
@@ -737,9 +809,11 @@
       "nota_especifica": 42,
       "nota_objetiva": 54,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006946",
+      "nota_final": 54
     },
     "8920006458": {
       "name": "Camilla David De Moura Maranha",
@@ -769,9 +843,11 @@
       "nota_especifica": 60,
       "nota_objetiva": 76,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001330",
+      "nota_final": 76
     },
     "8920009116": {
       "name": "Carlos Alberto Siqueira Tozzi",
@@ -785,9 +861,11 @@
       "nota_especifica": 60,
       "nota_objetiva": 76,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 0.8,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009116",
+      "nota_final": 76
     },
     "8920001698": {
       "name": "Carlos Eduardo Yokoy De Souza",
@@ -801,9 +879,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 73,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001698",
+      "nota_final": 73
     },
     "8920004344": {
       "name": "Carmem Lucia Ralo E Borges",
@@ -835,7 +915,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008859",
+      "nota_final": 89
     },
     "8920003850": {
       "name": "Caroline Araujo Nascimento",
@@ -867,7 +949,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005634",
+      "nota_final": 86
     },
     "8920006115": {
       "name": "Cassandra Dalle Mulle Santos",
@@ -883,7 +967,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006115",
+      "nota_final": 83
     },
     "8920004329": {
       "name": "Célia Cristina Ferreira De Oliveira",
@@ -899,7 +985,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004329",
+      "nota_final": 76
     },
     "8920003212": {
       "name": "César De Alencar Affonso",
@@ -915,7 +1003,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003212",
+      "nota_final": 85
     },
     "8920004261": {
       "name": "Cintia Aguiar Ferreira Dos Santos De Morais",
@@ -929,9 +1019,11 @@
       "nota_especifica": 68,
       "nota_objetiva": 92,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.8,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004261",
+      "nota_final": 92
     },
     "8920003436": {
       "name": "Clarissa Gomes Peixoto",
@@ -945,9 +1037,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 74,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003436",
+      "nota_final": 74
     },
     "8920008047": {
       "name": "Claudia Pestana Simões",
@@ -961,9 +1055,11 @@
       "nota_especifica": 74,
       "nota_objetiva": 98,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008047",
+      "nota_final": 98
     },
     "8920005480": {
       "name": "Cleber Pereira De Oliveira",
@@ -977,9 +1073,11 @@
       "nota_especifica": 54,
       "nota_objetiva": 77,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.2,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005480",
+      "nota_final": 77
     },
     "8920005737": {
       "name": "Cleidiane Santos Barreto",
@@ -995,7 +1093,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005737",
+      "nota_final": 72
     },
     "8920007080": {
       "name": "Clerio Luciano De Andrade Vicente ",
@@ -1011,7 +1111,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007080",
+      "nota_final": 65
     },
     "8920008585": {
       "name": "Cleyton Eduardo Dos Anjos Rios",
@@ -1041,9 +1143,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 84,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004981",
+      "nota_final": 84
     },
     "8920001802": {
       "name": "Cristiane Leyendecker De Lima",
@@ -1059,7 +1163,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001802",
+      "nota_final": 71
     },
     "8920003132": {
       "name": "Crystophen Figueroa Cunha Tenorio",
@@ -1089,9 +1195,11 @@
       "nota_especifica": 68,
       "nota_objetiva": 85,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001750",
+      "nota_final": 85
     },
     "8920007361": {
       "name": "Daniela Caroline Silva ",
@@ -1105,9 +1213,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 78,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007361",
+      "nota_final": 78
     },
     "8920000191": {
       "name": "Daniel Braga Dos Reis",
@@ -1123,7 +1233,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000191",
+      "nota_final": 80
     },
     "8920010025": {
       "name": "Daniel Farias Gomes",
@@ -1137,9 +1249,11 @@
       "nota_especifica": 78,
       "nota_objetiva": 98,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920010025",
+      "nota_final": 98
     },
     "8920009696": {
       "name": "Daniel Igor Batista Crispim",
@@ -1155,7 +1269,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009696",
+      "nota_final": 76
     },
     "8920000965": {
       "name": "Daniella Nascimento De Araujo",
@@ -1187,7 +1303,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000521",
+      "nota_final": 72
     },
     "8920004686": {
       "name": "Danielle Do Socorro Andrade Da Silva",
@@ -1219,7 +1337,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920000028",
+      "nota_final": 70
     },
     "8920000061": {
       "name": "Daniel Paulino Gonçalves",
@@ -1235,7 +1355,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000061",
+      "nota_final": 78
     },
     "8920002597": {
       "name": "Davi Alves De Paula",
@@ -1249,9 +1371,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 75,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 0.6,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002597",
+      "nota_final": 75
     },
     "8920004751": {
       "name": "David Bruno De Oliveira",
@@ -1265,9 +1389,11 @@
       "nota_especifica": 68,
       "nota_objetiva": 89,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004751",
+      "nota_final": 89
     },
     "8920007761": {
       "name": "David Ximenes Avila Siqueira Telles",
@@ -1281,9 +1407,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 77,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007761",
+      "nota_final": 77
     },
     "8920008549": {
       "name": "Deborah Marques De Souza",
@@ -1315,7 +1443,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004378",
+      "nota_final": 87
     },
     "8920000584": {
       "name": "Diego Henrique Navarro",
@@ -1331,7 +1461,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000584",
+      "nota_final": 87
     },
     "8920006751": {
       "name": "Diego Ribeiro Guedes Pereira",
@@ -1345,9 +1477,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 88,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006751",
+      "nota_final": 88
     },
     "8920001727": {
       "name": "Diele Aparecida Mendes Da Silva",
@@ -1363,7 +1497,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001727",
+      "nota_final": 63
     },
     "8920004193": {
       "name": "Diogo Dos Santos Rodrigues",
@@ -1379,7 +1515,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004193",
+      "nota_final": 79
     },
     "8920009672": {
       "name": "Divino Diogo Do Nascimento Martins",
@@ -1395,7 +1533,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009672",
+      "nota_final": 86
     },
     "8920006557": {
       "name": "Eder Regis De Lucena",
@@ -1411,7 +1551,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006557",
+      "nota_final": 75
     },
     "8920000255": {
       "name": "Eduardo Mauricio Cortes Monteiro",
@@ -1425,9 +1567,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 80,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000255",
+      "nota_final": 80
     },
     "8920006970": {
       "name": "Eduardo Misquita Siqueira",
@@ -1459,7 +1603,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009568",
+      "nota_final": 84
     },
     "8920004163": {
       "name": "Elaine Cristina De Resende",
@@ -1507,7 +1653,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002228",
+      "nota_final": 85
     },
     "8920008597": {
       "name": "Eliana Fernandes Souza",
@@ -1537,9 +1685,11 @@
       "nota_especifica": 74,
       "nota_objetiva": 101,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.2,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004420",
+      "nota_final": 101
     },
     "8920001519": {
       "name": "Eline Souza Rocha",
@@ -1571,7 +1721,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001257",
+      "nota_final": 72
     },
     "8920002530": {
       "name": "Elisângela Correia Alves",
@@ -1585,9 +1737,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 86,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002530",
+      "nota_final": 86
     },
     "8920008053": {
       "name": "Elisangela Gomes De Oliveira Martins",
@@ -1603,7 +1757,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008053",
+      "nota_final": 55
     },
     "8920000547": {
       "name": "Eloiny Guimarães Barbosa",
@@ -1619,7 +1775,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000547",
+      "nota_final": 96
     },
     "8920002156": {
       "name": "Emanuelle Moreira Oliveira Barbosa Da Silva",
@@ -1635,7 +1793,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002156",
+      "nota_final": 84
     },
     "8920002043": {
       "name": "Erika Carolina Gomes De Souza",
@@ -1651,7 +1811,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002043",
+      "nota_final": 80
     },
     "8920002697": {
       "name": "Érika Stefane De Oliveira Salustiano",
@@ -1715,7 +1877,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005468",
+      "nota_final": 58
     },
     "8920002641": {
       "name": "Fabiano De Sousa Macedo",
@@ -1729,9 +1893,11 @@
       "nota_especifica": 40,
       "nota_objetiva": 58,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.8,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002641",
+      "nota_final": 58
     },
     "8920001347": {
       "name": "Fabio Da Silva Ferreira",
@@ -1745,9 +1911,11 @@
       "nota_especifica": 44,
       "nota_objetiva": 60,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.2,
       "cota_pnp": false,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920001347",
+      "nota_final": 60
     },
     "8920009939": {
       "name": "Fábio De Souza Brandão",
@@ -1763,7 +1931,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009939",
+      "nota_final": 58
     },
     "8920009987": {
       "name": "Fabíola Da Silva Carvalho Walesko",
@@ -1809,9 +1979,11 @@
       "nota_especifica": 52,
       "nota_objetiva": 71,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008065",
+      "nota_final": 71
     },
     "8920000397": {
       "name": "Fárida Ximenes Aguiar De Sousa",
@@ -1859,7 +2031,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004450",
+      "nota_final": 76
     },
     "8920008716": {
       "name": "Fernanda Santos Araujo",
@@ -1875,7 +2049,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008716",
+      "nota_final": 55
     },
     "8920004325": {
       "name": "Fernanda Santos Pereira",
@@ -1905,9 +2081,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 86,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007222",
+      "nota_final": 86
     },
     "8920004526": {
       "name": "Fernando Alves Nunes",
@@ -1921,9 +2099,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 93,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004526",
+      "nota_final": 93
     },
     "8920000615": {
       "name": "Fernando Clemente Cunha Bastos",
@@ -1939,7 +2119,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000615",
+      "nota_final": 87
     },
     "8920004458": {
       "name": "Fernando José Alves Pereira",
@@ -1953,9 +2135,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 81,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004458",
+      "nota_final": 81
     },
     "8920000557": {
       "name": "Filipe De Castro Quelhas",
@@ -2001,9 +2185,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 77,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008341",
+      "nota_final": 77
     },
     "8920004345": {
       "name": "Flavio Fares Marques Da Silva",
@@ -2019,7 +2205,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004345",
+      "nota_final": 82
     },
     "8920008923": {
       "name": "Flavio Gingeira De Aguiar",
@@ -2051,7 +2239,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008327",
+      "nota_final": 93
     },
     "8920000656": {
       "name": "Francisco De Assis Da Cruz Santana Vilela Braga",
@@ -2065,9 +2255,11 @@
       "nota_especifica": 54,
       "nota_objetiva": 72,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000656",
+      "nota_final": 72
     },
     "8920009889": {
       "name": "Fredson Bento Da Silva",
@@ -2081,9 +2273,11 @@
       "nota_especifica": 52,
       "nota_objetiva": 70,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": true,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920009889",
+      "nota_final": 70
     },
     "8920003563": {
       "name": "Gabriela Brasil Nogueira",
@@ -2115,7 +2309,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004392",
+      "nota_final": 77
     },
     "8920001653": {
       "name": "Glauber Estacio Da Conceicao Queiroz",
@@ -2129,9 +2325,11 @@
       "nota_especifica": 54,
       "nota_objetiva": 71,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001653",
+      "nota_final": 71
     },
     "8920003743": {
       "name": "Gledson Bispo Dos Santos",
@@ -2177,9 +2375,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 82,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001142",
+      "nota_final": 82
     },
     "8920008627": {
       "name": "Guilherme Daniel Dos Santos",
@@ -2209,9 +2409,11 @@
       "nota_especifica": 52,
       "nota_objetiva": 70,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.2,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001005",
+      "nota_final": 70
     },
     "8920009921": {
       "name": "Guilherme Mendonça De Moraes ",
@@ -2227,7 +2429,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009921",
+      "nota_final": 72
     },
     "8920009648": {
       "name": "Guilherme Pereira Larangeira",
@@ -2243,7 +2447,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009648",
+      "nota_final": 91
     },
     "8920009324": {
       "name": "Guilherme Santos De Oliveira ",
@@ -2259,7 +2465,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009324",
+      "nota_final": 67
     },
     "8920009404": {
       "name": "Gustavo Gonçalves Patrão De Souza Oliveira",
@@ -2275,7 +2483,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009404",
+      "nota_final": 87
     },
     "8920007779": {
       "name": "Gustavo Menegaldo Turatti",
@@ -2289,9 +2499,11 @@
       "nota_especifica": 70,
       "nota_objetiva": 94,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007779",
+      "nota_final": 94
     },
     "8920002965": {
       "name": "Heitor Da Silva Ramos",
@@ -2321,9 +2533,11 @@
       "nota_especifica": 50,
       "nota_objetiva": 67,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.6,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007041",
+      "nota_final": 67
     },
     "8920007720": {
       "name": "Henrique De Araujo Rosa Cruz",
@@ -2339,7 +2553,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007720",
+      "nota_final": 90
     },
     "8920002616": {
       "name": "Henrique Machado Borges",
@@ -2369,9 +2585,11 @@
       "nota_especifica": 70,
       "nota_objetiva": 90,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009707",
+      "nota_final": 90
     },
     "8920008097": {
       "name": "Henrique Taite Mendes",
@@ -2387,7 +2605,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008097",
+      "nota_final": 79
     },
     "8920005985": {
       "name": "Henrique Werberich Dos Santos",
@@ -2401,9 +2621,11 @@
       "nota_especifica": 74,
       "nota_objetiva": 96,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005985",
+      "nota_final": 96
     },
     "8920002726": {
       "name": "Hiuslee Nihericsson Tajra De Alencar",
@@ -2419,7 +2641,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002726",
+      "nota_final": 77
     },
     "8920001728": {
       "name": "Iara Cristina Da Silva Guimarães",
@@ -2435,7 +2659,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001728",
+      "nota_final": 55
     },
     "8920009695": {
       "name": "Igor Ernesto Ferreira Costa",
@@ -2449,9 +2675,11 @@
       "nota_especifica": 68,
       "nota_objetiva": 86,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009695",
+      "nota_final": 86
     },
     "8920003679": {
       "name": "Isabela Soares De Castro",
@@ -2467,7 +2695,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003679",
+      "nota_final": 55
     },
     "8920004196": {
       "name": "Isabel Cristina Silva",
@@ -2481,9 +2711,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 74,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004196",
+      "nota_final": 74
     },
     "8920008467": {
       "name": "Isabella Abreu Pereira Pettersen",
@@ -2499,7 +2731,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008467",
+      "nota_final": 78
     },
     "8920006397": {
       "name": "Jackeline Grace Da Rocha Pereira",
@@ -2515,7 +2749,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006397",
+      "nota_final": 54
     },
     "8920004788": {
       "name": "Jader Aigner De Souza",
@@ -2529,9 +2765,11 @@
       "nota_especifica": 60,
       "nota_objetiva": 82,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920004788",
+      "nota_final": 82
     },
     "8920003459": {
       "name": "Janaina Dos Santos Benvindo",
@@ -2547,7 +2785,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003459",
+      "nota_final": 78
     },
     "8920001159": {
       "name": "Jaqueline Franciele Viana Santos",
@@ -2563,7 +2803,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001159",
+      "nota_final": 91
     },
     "8920003653": {
       "name": "Jaqueline Maria Da Silva",
@@ -2577,9 +2819,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 71,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003653",
+      "nota_final": 71
     },
     "8920004782": {
       "name": "Jessica Alves Mesquita",
@@ -2595,7 +2839,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004782",
+      "nota_final": 90
     },
     "8920002189": {
       "name": "Jessica Aparecida Da Silva",
@@ -2609,9 +2855,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 86,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002189",
+      "nota_final": 86
     },
     "8920009240": {
       "name": "Jhon Alex Ramos Cardoso",
@@ -2627,7 +2875,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009240",
+      "nota_final": 61
     },
     "8920007726": {
       "name": "João Augusto Dos Santos Guimarães",
@@ -2659,7 +2909,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003935",
+      "nota_final": 52
     },
     "8920003159": {
       "name": "João Henrique Amorim Battaglin",
@@ -2675,7 +2927,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003159",
+      "nota_final": 92
     },
     "8920009557": {
       "name": "Joely Patrícia Machado De Oliveira Marques ",
@@ -2691,7 +2945,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009557",
+      "nota_final": 63
     },
     "8920009423": {
       "name": "Johnny Aparecido De Oliveira",
@@ -2707,7 +2963,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009423",
+      "nota_final": 82
     },
     "8920008198": {
       "name": "Jonatas Dias Marques Junior",
@@ -2721,9 +2979,11 @@
       "nota_especifica": 36,
       "nota_objetiva": 50,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.2,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008198",
+      "nota_final": 50
     },
     "8920005789": {
       "name": "Jonathan Schienemayer Finger",
@@ -2737,9 +2997,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 83,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005789",
+      "nota_final": 83
     },
     "8920006777": {
       "name": "Jordan Camisqui",
@@ -2867,7 +3129,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009239",
+      "nota_final": 80
     },
     "8920006253": {
       "name": "Juliana Guimarães Santiago",
@@ -2881,9 +3145,11 @@
       "nota_especifica": 54,
       "nota_objetiva": 73,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006253",
+      "nota_final": 73
     },
     "8920009763": {
       "name": "Juliana Queiroz De Castro",
@@ -2897,9 +3163,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 74,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009763",
+      "nota_final": 74
     },
     "8920003711": {
       "name": "Julio Cesar Ferreira Oliveira",
@@ -2913,9 +3181,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 78,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003711",
+      "nota_final": 78
     },
     "8920002053": {
       "name": "Jussandra Ferreira Da Costa",
@@ -2931,7 +3201,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002053",
+      "nota_final": 73
     },
     "8920008193": {
       "name": "Kamila Lima Barros",
@@ -2963,7 +3235,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006447",
+      "nota_final": 78
     },
     "8920004512": {
       "name": "Karina Portugal Figueiredo",
@@ -2993,9 +3267,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 73,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008507",
+      "nota_final": 73
     },
     "8920000565": {
       "name": "Karla Danielle Moreira Dos Santos",
@@ -3011,7 +3287,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000565",
+      "nota_final": 71
     },
     "8920005959": {
       "name": "Karlla Da Silva Torres",
@@ -3041,9 +3319,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 82,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 0.8,
       "cota_pnp": false,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920009978",
+      "nota_final": 82
     },
     "8920006817": {
       "name": "Katia Sitta Fortini",
@@ -3057,9 +3337,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 78,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006817",
+      "nota_final": 78
     },
     "8920002322": {
       "name": "Katlin Camara Machado Oliveira Andrade",
@@ -3073,9 +3355,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 82,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002322",
+      "nota_final": 82
     },
     "8920004693": {
       "name": "Keila Martins De Assis",
@@ -3091,7 +3375,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004693",
+      "nota_final": 72
     },
     "8920005846": {
       "name": "Kelly Nascimento Dos Santos",
@@ -3123,7 +3409,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004384",
+      "nota_final": 66
     },
     "8920005991": {
       "name": "Lara Lisboa Souza ",
@@ -3139,7 +3427,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005991",
+      "nota_final": 76
     },
     "8920008136": {
       "name": "Larissa Horrara De Almeida",
@@ -3155,7 +3445,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008136",
+      "nota_final": 81
     },
     "8920006110": {
       "name": "Larissa Tristão Savignon ",
@@ -3169,9 +3461,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 82,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006110",
+      "nota_final": 82
     },
     "8920006842": {
       "name": "Laurizze Carolina Gomes Lima",
@@ -3187,7 +3481,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006842",
+      "nota_final": 71
     },
     "8920005919": {
       "name": "Leandro Nogueira De Souza Bastos",
@@ -3217,9 +3513,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 83,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004171",
+      "nota_final": 83
     },
     "8920003825": {
       "name": "Leandro Silva De Oliveira",
@@ -3235,7 +3533,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003825",
+      "nota_final": 72
     },
     "8920008181": {
       "name": "Leilinay De Lucena Silva",
@@ -3251,7 +3551,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008181",
+      "nota_final": 77
     },
     "8920000368": {
       "name": "Lenilda Ribeiro De Moura",
@@ -3267,7 +3569,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000368",
+      "nota_final": 54
     },
     "8920006948": {
       "name": "Leonan Garcez Lemes",
@@ -3299,7 +3603,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009122",
+      "nota_final": 94
     },
     "8920005223": {
       "name": "Leonardo Daniel Martins Araujo",
@@ -3329,9 +3635,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 89,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001200",
+      "nota_final": 89
     },
     "8920002581": {
       "name": "Leonardo Ricardo Pomarino Vargas",
@@ -3363,7 +3671,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005748",
+      "nota_final": 70
     },
     "8920004920": {
       "name": "Letícia Adriana Dos Santos Brandao ",
@@ -3379,7 +3689,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004920",
+      "nota_final": 70
     },
     "8920000398": {
       "name": "Letycia Carolina Ribeiro Antunes",
@@ -3425,9 +3737,11 @@
       "nota_especifica": 60,
       "nota_objetiva": 77,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002339",
+      "nota_final": 77
     },
     "8920004364": {
       "name": "Lisangela Chiarelli ",
@@ -3443,7 +3757,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004364",
+      "nota_final": 71
     },
     "8920008022": {
       "name": "Liz Onishi",
@@ -3457,9 +3773,11 @@
       "nota_especifica": 70,
       "nota_objetiva": 91,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008022",
+      "nota_final": 91
     },
     "8920002195": {
       "name": "Loise Rodrigues",
@@ -3475,7 +3793,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002195",
+      "nota_final": 77
     },
     "8920004385": {
       "name": "Luana Loubet Borges",
@@ -3491,7 +3811,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004385",
+      "nota_final": 80
     },
     "8920006435": {
       "name": "Luana Thaís Acunha Dalla Costa",
@@ -3505,9 +3827,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 72,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006435",
+      "nota_final": 72
     },
     "8920008617": {
       "name": "Lucas Henrique Santos Costa",
@@ -3523,7 +3847,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008617",
+      "nota_final": 80
     },
     "8920008494": {
       "name": "Lucas Werneck Louzada",
@@ -3553,9 +3879,11 @@
       "nota_especifica": 72,
       "nota_objetiva": 92,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003664",
+      "nota_final": 92
     },
     "8920004703": {
       "name": "Luciana Chaves Santos Vasconcellos",
@@ -3571,7 +3899,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004703",
+      "nota_final": 87
     },
     "8920008318": {
       "name": "Luciene Braz Ferreira",
@@ -3587,7 +3917,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008318",
+      "nota_final": 73
     },
     "8920009436": {
       "name": "Ludmila Quitéria Souza Dos Santos Gouveia",
@@ -3601,9 +3933,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 75,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009436",
+      "nota_final": 75
     },
     "8920000883": {
       "name": "Luis Felipe Amaral De Freitas ",
@@ -3617,9 +3951,11 @@
       "nota_especifica": 82,
       "nota_objetiva": 102,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000883",
+      "nota_final": 102
     },
     "8920004371": {
       "name": "Luis Filipe Fernandes De Oliveira Abbott",
@@ -3633,9 +3969,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 71,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004371",
+      "nota_final": 71
     },
     "8920003862": {
       "name": "Luis Gustavo De Andrade Rodrigues",
@@ -3649,9 +3987,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 84,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003862",
+      "nota_final": 84
     },
     "8920008275": {
       "name": "Luis Henrique Teles",
@@ -3665,9 +4005,11 @@
       "nota_especifica": 68,
       "nota_objetiva": 86,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008275",
+      "nota_final": 86
     },
     "8920005000": {
       "name": "Luis Tiago Chagas Barros",
@@ -3683,7 +4025,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005000",
+      "nota_final": 81
     },
     "8920001794": {
       "name": "Luiza Carneiro Rezende",
@@ -3713,9 +4057,11 @@
       "nota_especifica": 54,
       "nota_objetiva": 77,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004748",
+      "nota_final": 77
     },
     "8920003943": {
       "name": "Luiz Orione Sousa Nunes",
@@ -3729,9 +4075,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 70,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003943",
+      "nota_final": 70
     },
     "8920001113": {
       "name": "Maira Foletto Jost",
@@ -3747,7 +4095,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920001113",
+      "nota_final": 55
     },
     "8920009345": {
       "name": "Marcela De Oliveira Loureiro ",
@@ -3761,9 +4111,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 86,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009345",
+      "nota_final": 86
     },
     "8920009306": {
       "name": "Marcela Lisboa Carvalho",
@@ -3795,7 +4147,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001189",
+      "nota_final": 72
     },
     "8920007860": {
       "name": "Marcelo Cesar Cordeiro Filho",
@@ -3825,9 +4179,11 @@
       "nota_especifica": 68,
       "nota_objetiva": 92,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002757",
+      "nota_final": 92
     },
     "8920002882": {
       "name": "Marcelo Padoin Canazaro",
@@ -3843,7 +4199,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920002882",
+      "nota_final": 80
     },
     "8920002898": {
       "name": "Marcelo Santos Conceição",
@@ -3873,9 +4231,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 74,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008788",
+      "nota_final": 74
     },
     "8920002710": {
       "name": "Marcelo Villares Coelho",
@@ -3889,9 +4249,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 85,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002710",
+      "nota_final": 85
     },
     "8920004166": {
       "name": "Marcia Cristina De Araujo Teixeira",
@@ -3905,9 +4267,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 73,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004166",
+      "nota_final": 73
     },
     "8920006636": {
       "name": "Marcia Ramone Antunes Fonseca",
@@ -3923,7 +4287,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006636",
+      "nota_final": 71
     },
     "8920005008": {
       "name": "Marcio Bandeira De Mello De Albuquerque ",
@@ -3939,7 +4305,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005008",
+      "nota_final": 73
     },
     "8920001367": {
       "name": "Marcus Antonio Freijanes Maia",
@@ -3955,7 +4323,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001367",
+      "nota_final": 85
     },
     "8920001949": {
       "name": "Marcus Vinícius De Matos Oliveira",
@@ -3969,9 +4339,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 84,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.6,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001949",
+      "nota_final": 84
     },
     "8920003668": {
       "name": "Marfisa Heloisa Ferreira Freres",
@@ -3987,7 +4359,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003668",
+      "nota_final": 78
     },
     "8920008020": {
       "name": "Maria Aparecida Teixeira Marinho De Oliveira",
@@ -4001,9 +4375,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 82,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008020",
+      "nota_final": 82
     },
     "8920006674": {
       "name": "Maria De Fátima Fernandes",
@@ -4017,9 +4393,11 @@
       "nota_especifica": 60,
       "nota_objetiva": 76,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006674",
+      "nota_final": 76
     },
     "8920002459": {
       "name": "Mariana Rodrigues De Carvalho",
@@ -4033,9 +4411,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 80,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002459",
+      "nota_final": 80
     },
     "8920009689": {
       "name": "Mariana Sant'ana Fioravanti De Almeida",
@@ -4051,7 +4431,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009689",
+      "nota_final": 54
     },
     "8920006089": {
       "name": "Mariana Siqueira Vilela",
@@ -4065,9 +4447,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 86,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 0.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006089",
+      "nota_final": 86
     },
     "8920008939": {
       "name": "Maria Tereza Costa Gomes De Queiroz",
@@ -4083,7 +4467,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008939",
+      "nota_final": 81
     },
     "8920005389": {
       "name": "Marília Cristina Sassim Jesus",
@@ -4099,7 +4485,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005389",
+      "nota_final": 81
     },
     "8920001832": {
       "name": "Marina De Sá Dias",
@@ -4131,7 +4519,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008917",
+      "nota_final": 70
     },
     "8920001984": {
       "name": "Marinita Eliara Kommers",
@@ -4147,7 +4537,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920001984",
+      "nota_final": 77
     },
     "8920004176": {
       "name": "Marissol Da Silva Alves",
@@ -4161,9 +4553,11 @@
       "nota_especifica": 54,
       "nota_objetiva": 78,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004176",
+      "nota_final": 78
     },
     "8920006389": {
       "name": "Marjorie Caroline Costa Lima Grimm",
@@ -4195,7 +4589,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009902",
+      "nota_final": 85
     },
     "8920001839": {
       "name": "Marshal Zorzanelli",
@@ -4211,7 +4607,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001839",
+      "nota_final": 53
     },
     "8920001889": {
       "name": "Marta Maria Dos Santos",
@@ -4241,9 +4639,11 @@
       "nota_especifica": 76,
       "nota_objetiva": 99,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008774",
+      "nota_final": 99
     },
     "8920006363": {
       "name": "Mateus Oliveira Guimarães ",
@@ -4259,7 +4659,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006363",
+      "nota_final": 72
     },
     "8920003737": {
       "name": "Matheus Moura Fonseca Santos",
@@ -4273,9 +4675,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 90,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003737",
+      "nota_final": 90
     },
     "8920004274": {
       "name": "Matheus Thacyo Da Silva",
@@ -4291,7 +4695,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004274",
+      "nota_final": 60
     },
     "8920001996": {
       "name": "Maurílio Eduardo Daros",
@@ -4307,7 +4713,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001996",
+      "nota_final": 75
     },
     "8920004838": {
       "name": "Mayara Da Costa E Silva",
@@ -4323,7 +4731,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004838",
+      "nota_final": 64
     },
     "8920003288": {
       "name": "Mayara Tenório De Melo Silva",
@@ -4339,7 +4749,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003288",
+      "nota_final": 88
     },
     "8920009521": {
       "name": "Melissa Rfodriguez Arnal Da Silva Leite",
@@ -4353,9 +4765,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 78,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009521",
+      "nota_final": 78
     },
     "8920009023": {
       "name": "Mellissa Lorena Souza Andrade",
@@ -4403,7 +4817,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006416",
+      "nota_final": 75
     },
     "8920006120": {
       "name": "Milena Araguaia De Castro Sá Lima",
@@ -4417,9 +4833,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 86,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 0.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006120",
+      "nota_final": 86
     },
     "8920004460": {
       "name": "Milene Adriana De Araújo Mello Reis",
@@ -4465,9 +4883,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 84,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003219",
+      "nota_final": 84
     },
     "8920010019": {
       "name": "Moisés Batista Martins De Oliveira",
@@ -4499,7 +4919,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004856",
+      "nota_final": 65
     },
     "8920005137": {
       "name": "Mylena De Nadai Ramalho",
@@ -4531,7 +4953,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001697",
+      "nota_final": 60
     },
     "8920008960": {
       "name": "Nathalya Amanda Teixeira Camara",
@@ -4563,7 +4987,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008697",
+      "nota_final": 75
     },
     "8920007794": {
       "name": "Newton Brito Simão",
@@ -4579,7 +5005,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007794",
+      "nota_final": 89
     },
     "8920004528": {
       "name": "Nubia Nascimento Da Silva",
@@ -4595,7 +5023,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004528",
+      "nota_final": 76
     },
     "8920004401": {
       "name": "Octavio Ramos Leal Junior",
@@ -4609,9 +5039,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 81,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004401",
+      "nota_final": 81
     },
     "8920008432": {
       "name": "Onisvaldo Xavier De Miranda",
@@ -4625,9 +5057,11 @@
       "nota_especifica": 54,
       "nota_objetiva": 69,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008432",
+      "nota_final": 69
     },
     "8920009682": {
       "name": "Otacilio Borges Junior",
@@ -4643,7 +5077,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920009682",
+      "nota_final": 62
     },
     "8920003099": {
       "name": "Otilia De Sousa Santos",
@@ -4691,7 +5127,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920002482",
+      "nota_final": 63
     },
     "8920009516": {
       "name": "Paloma Ribeiro Pires Simas",
@@ -4707,7 +5145,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009516",
+      "nota_final": 72
     },
     "8920009783": {
       "name": "Patrick Monticelli Netto",
@@ -4737,9 +5177,11 @@
       "nota_especifica": 60,
       "nota_objetiva": 83,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003944",
+      "nota_final": 83
     },
     "8920002800": {
       "name": "Paulo Atanael Da Silva",
@@ -4771,7 +5213,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004149",
+      "nota_final": 74
     },
     "8920004584": {
       "name": "Paulo Henrique Nery",
@@ -4785,9 +5229,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 83,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004584",
+      "nota_final": 83
     },
     "8920008001": {
       "name": "Paulo Humberto De Siqueira Freire",
@@ -4801,9 +5247,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 83,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008001",
+      "nota_final": 83
     },
     "8920004866": {
       "name": "Paulo Roberto Da Cunha",
@@ -4835,7 +5283,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001138",
+      "nota_final": 77
     },
     "8920003898": {
       "name": "Paulo Solano Soares Ferreira",
@@ -4849,9 +5299,11 @@
       "nota_especifica": 72,
       "nota_objetiva": 97,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003898",
+      "nota_final": 97
     },
     "8920002737": {
       "name": "Paulo Vinicius De Lima E Silva",
@@ -4883,7 +5335,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009160",
+      "nota_final": 80
     },
     "8920007704": {
       "name": "Polyana Karina Mendes Ximenes",
@@ -4913,9 +5367,11 @@
       "nota_especifica": 50,
       "nota_objetiva": 72,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003191",
+      "nota_final": 72
     },
     "8920005456": {
       "name": "Priscila Ludwig Brandão",
@@ -4931,7 +5387,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005456",
+      "nota_final": 81
     },
     "8920003749": {
       "name": "Priscilla Gonçalves Da Silva E Souza",
@@ -4947,7 +5405,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003749",
+      "nota_final": 100
     },
     "8920009657": {
       "name": "Rafaela Gomes Gonçalves De Carvalho",
@@ -4963,7 +5423,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009657",
+      "nota_final": 80
     },
     "8920003597": {
       "name": "Rafael Bruno De Souza Nunes",
@@ -4993,9 +5455,11 @@
       "nota_especifica": 50,
       "nota_objetiva": 67,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": true,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920008719",
+      "nota_final": 67
     },
     "8920009612": {
       "name": "Rafael Quinalia Da Silva",
@@ -5009,9 +5473,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 87,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009612",
+      "nota_final": 87
     },
     "8920009013": {
       "name": "Railson Souza Costa",
@@ -5027,7 +5493,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009013",
+      "nota_final": 112
     },
     "8920007864": {
       "name": "Raphael Da Silva Rodrigues Moura",
@@ -5043,7 +5511,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007864",
+      "nota_final": 76
     },
     "8920009293": {
       "name": "Raphael De Almeida Cação ",
@@ -5059,7 +5529,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009293",
+      "nota_final": 84
     },
     "8920002168": {
       "name": "Rayssa Maria Rodrigues Costa",
@@ -5075,7 +5547,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002168",
+      "nota_final": 72
     },
     "8920008343": {
       "name": "Regina Cláudia Nascimento Pinheiro",
@@ -5091,7 +5565,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008343",
+      "nota_final": 55
     },
     "8920009858": {
       "name": "Reginaldo De Moura Morais",
@@ -5105,9 +5581,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 82,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009858",
+      "nota_final": 82
     },
     "8920007130": {
       "name": "Renan Veppo Hungria De Almeida",
@@ -5121,9 +5599,11 @@
       "nota_especifica": 60,
       "nota_objetiva": 80,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 0.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007130",
+      "nota_final": 80
     },
     "8920000610": {
       "name": "Renato Domingues Ferreira",
@@ -5155,7 +5635,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003681",
+      "nota_final": 92
     },
     "8920006793": {
       "name": "Ricardo Guimarães Da Rocha Barcelos",
@@ -5201,9 +5683,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 84,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003598",
+      "nota_final": 84
     },
     "8920005324": {
       "name": "Roberta Harumi Pinheiro Sasaki",
@@ -5219,7 +5703,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005324",
+      "nota_final": 73
     },
     "8920007789": {
       "name": "Roberta Motta Da Silva Silveira",
@@ -5251,7 +5737,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002090",
+      "nota_final": 91
     },
     "8920004237": {
       "name": "Robert Caggiano",
@@ -5265,9 +5753,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 90,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004237",
+      "nota_final": 90
     },
     "8920003072": {
       "name": "Robson Martins Do Carmo",
@@ -5283,7 +5773,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003072",
+      "nota_final": 99
     },
     "8920003485": {
       "name": "Rodrigo Resende Do Monte",
@@ -5299,7 +5791,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003485",
+      "nota_final": 78
     },
     "8920003832": {
       "name": "Rodrigo Rodrigues Moreira",
@@ -5315,7 +5809,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003832",
+      "nota_final": 85
     },
     "8920003322": {
       "name": "Rodrigo Santiago Viegas",
@@ -5331,7 +5827,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003322",
+      "nota_final": 78
     },
     "8920000781": {
       "name": "Rodrigo Torres Carrilho Da Costa",
@@ -5347,7 +5845,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000781",
+      "nota_final": 78
     },
     "8920006630": {
       "name": "Rogerio Barcellos Leite",
@@ -5361,9 +5861,11 @@
       "nota_especifica": 70,
       "nota_objetiva": 90,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006630",
+      "nota_final": 90
     },
     "8920003990": {
       "name": "Ronaldo Marques Gomes",
@@ -5379,7 +5881,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003990",
+      "nota_final": 71
     },
     "8920009059": {
       "name": "Rosane Do Bomfim Santos Souza",
@@ -5395,7 +5899,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009059",
+      "nota_final": 79
     },
     "8920005682": {
       "name": "Rosinara Da Silva Queiroz Zanardi ",
@@ -5443,7 +5949,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004742",
+      "nota_final": 76
     },
     "8920009611": {
       "name": "Saimon Claudio Sterf Pires",
@@ -5457,9 +5965,11 @@
       "nota_especifica": 60,
       "nota_objetiva": 77,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009611",
+      "nota_final": 77
     },
     "8920008058": {
       "name": "Samara Frota De Aguiar",
@@ -5475,7 +5985,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008058",
+      "nota_final": 80
     },
     "8920005579": {
       "name": "Samuel Alvarenga De Magalhães Dos Anjos",
@@ -5523,7 +6035,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007810",
+      "nota_final": 71
     },
     "8920009178": {
       "name": "Sara Rodrigues Ximenes Carneiro",
@@ -5553,9 +6067,11 @@
       "nota_especifica": 76,
       "nota_objetiva": 105,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003883",
+      "nota_final": 105
     },
     "8920008411": {
       "name": "Scheila Maria Sousa Rodrigues",
@@ -5585,9 +6101,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 89,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007061",
+      "nota_final": 89
     },
     "8920010040": {
       "name": "Sergio Augusto Cola Dias",
@@ -5603,7 +6121,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920010040",
+      "nota_final": 77
     },
     "8920003444": {
       "name": "Sergio Jovem Junior",
@@ -5649,9 +6169,11 @@
       "nota_especifica": 62,
       "nota_objetiva": 80,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000830",
+      "nota_final": 80
     },
     "8920003692": {
       "name": "Simara Terra De Souza Ferreira",
@@ -5731,7 +6253,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009537",
+      "nota_final": 72
     },
     "8920008720": {
       "name": "Sônia Maria Monteiro Gonçalves ",
@@ -5761,9 +6285,11 @@
       "nota_especifica": 52,
       "nota_objetiva": 72,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005884",
+      "nota_final": 72
     },
     "8920007522": {
       "name": "Stteffano Raimundo Ferreira Leite Siqueira Alves",
@@ -5809,9 +6335,11 @@
       "nota_especifica": 52,
       "nota_objetiva": 74,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.2,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004026",
+      "nota_final": 74
     },
     "8920009834": {
       "name": "Tales Fernandes Costa",
@@ -5827,7 +6355,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009834",
+      "nota_final": 91
     },
     "8920003462": {
       "name": "Talita Barbosa Matos Peixoto",
@@ -5843,7 +6373,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003462",
+      "nota_final": 79
     },
     "8920007330": {
       "name": "Talita Mendes Lins Martins",
@@ -5857,9 +6389,11 @@
       "nota_especifica": 50,
       "nota_objetiva": 62,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.2,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007330",
+      "nota_final": 62
     },
     "8920000896": {
       "name": "Tamires Silva De Andrade",
@@ -5875,7 +6409,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000896",
+      "nota_final": 76
     },
     "8920002652": {
       "name": "Tatiane Ioly Canton Souza",
@@ -5923,7 +6459,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003209",
+      "nota_final": 71
     },
     "8920002073": {
       "name": "Thaciana Yara Gomes De Medeiros",
@@ -5937,9 +6475,11 @@
       "nota_especifica": 66,
       "nota_objetiva": 93,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.4,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002073",
+      "nota_final": 93
     },
     "8920005375": {
       "name": "Thaís Araujo Martins De Oliveira",
@@ -5953,9 +6493,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 77,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005375",
+      "nota_final": 77
     },
     "8920007910": {
       "name": "Thais Gonçalves De Alencar",
@@ -5987,7 +6529,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006543",
+      "nota_final": 84
     },
     "8920004905": {
       "name": "Thais Sena Schettino",
@@ -6001,9 +6545,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 74,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004905",
+      "nota_final": 74
     },
     "8920006730": {
       "name": "Thales Stivaletti Filgueiras Da Fonseca",
@@ -6019,7 +6565,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006730",
+      "nota_final": 78
     },
     "8920003236": {
       "name": "Thalita Knupp Almeida De Carvalho",
@@ -6033,9 +6581,11 @@
       "nota_especifica": 74,
       "nota_objetiva": 93,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003236",
+      "nota_final": 93
     },
     "8920003700": {
       "name": "Thiago Trajano Santos Da Silva",
@@ -6051,7 +6601,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003700",
+      "nota_final": 54
     },
     "8920007582": {
       "name": "Ulysses Ferreira Da Silva Araujo",
@@ -6067,7 +6619,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007582",
+      "nota_final": 73
     },
     "8920008843": {
       "name": "Valdeck Ribeiro Dos Santos",
@@ -6081,9 +6635,11 @@
       "nota_especifica": 50,
       "nota_objetiva": 76,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008843",
+      "nota_final": 76
     },
     "8920003831": {
       "name": "Vanessa Maria Pereira Blanco",
@@ -6099,7 +6655,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003831",
+      "nota_final": 80
     },
     "8920007754": {
       "name": "Vanessa Pires Valente",
@@ -6113,9 +6671,11 @@
       "nota_especifica": 56,
       "nota_objetiva": 77,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 2.2,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920007754",
+      "nota_final": 77
     },
     "8920002267": {
       "name": "Vera Lucia De Oliveira Almeida",
@@ -6129,9 +6689,11 @@
       "nota_especifica": 72,
       "nota_objetiva": 97,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 0.6,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920002267",
+      "nota_final": 97
     },
     "8920009389": {
       "name": "Victor Hugo Silva De Souza",
@@ -6147,7 +6709,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009389",
+      "nota_final": 63
     },
     "8920006763": {
       "name": "Villen Raphael Lima Cordeiro",
@@ -6163,7 +6727,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006763",
+      "nota_final": 82
     },
     "8920005504": {
       "name": "Vinícius Araújo De Lima",
@@ -6179,7 +6745,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005504",
+      "nota_final": 93
     },
     "8920004711": {
       "name": "Vítor Abranches",
@@ -6195,7 +6763,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004711",
+      "nota_final": 92
     },
     "8920003245": {
       "name": "Vitor De Holanda Meireles Viana",
@@ -6243,7 +6813,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008598",
+      "nota_final": 76
     },
     "8920004953": {
       "name": "Vítor Marinho Magliano",
@@ -6259,7 +6831,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004953",
+      "nota_final": 69
     },
     "8920003610": {
       "name": "Viviane Pinheiro Lourenço Castro",
@@ -6275,7 +6849,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003610",
+      "nota_final": 73
     },
     "8920009212": {
       "name": "Vivian Geanne Fonseca Rodrigues",
@@ -6291,7 +6867,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920009212",
+      "nota_final": 82
     },
     "8920006577": {
       "name": "Vivian Silveira Valim Soares",
@@ -6321,9 +6899,11 @@
       "nota_especifica": 64,
       "nota_objetiva": 89,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.8,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920000290",
+      "nota_final": 89
     },
     "8920008845": {
       "name": "Wallace David Souza",
@@ -6337,9 +6917,11 @@
       "nota_especifica": 52,
       "nota_objetiva": 69,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 3.4,
       "cota_pnp": false,
-      "cota_pcd": true
+      "cota_pcd": true,
+      "inscricao": "8920008845",
+      "nota_final": 69
     },
     "8920009051": {
       "name": "Wallace Nunes De Menezes",
@@ -6371,7 +6953,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920005123",
+      "nota_final": 63
     },
     "8920003441": {
       "name": "Wendy Almeida De Araújo Becker ",
@@ -6385,9 +6969,11 @@
       "nota_especifica": 58,
       "nota_objetiva": 72,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.4,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920003441",
+      "nota_final": 72
     },
     "8920004314": {
       "name": "Wilbson Lira Jorge",
@@ -6403,7 +6989,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004314",
+      "nota_final": 78
     },
     "8920004356": {
       "name": "William Fernando De Melo Oliveira",
@@ -6419,7 +7007,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920004356",
+      "nota_final": 99
     },
     "8920008409": {
       "name": "Wilmara Ferreira Dias",
@@ -6433,9 +7023,11 @@
       "nota_especifica": 46,
       "nota_objetiva": 61,
       "titulos": true,
-      "nota_titulos": 0,
+      "nota_titulos": 1.6,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920008409",
+      "nota_final": 61
     },
     "8920001922": {
       "name": "Wilnir Ressutti Junior",
@@ -6451,7 +7043,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": false,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920001922",
+      "nota_final": 77
     },
     "8920006714": {
       "name": "Yana Carvalho Do Nascimento Marques",
@@ -6467,7 +7061,9 @@
       "titulos": true,
       "nota_titulos": 0,
       "cota_pnp": true,
-      "cota_pcd": false
+      "cota_pcd": false,
+      "inscricao": "8920006714",
+      "nota_final": 59
     }
   }
 }
