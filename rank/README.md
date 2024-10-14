@@ -89,6 +89,10 @@ O nó pai "vagas" funciona como metadado do cargo (escopo) apenas para permitir 
 
 Os nós (filhos) de "candidatos" possuem os dados relevantes de cada candidato para o ranqueamento. Seu esquema de dados é baseado nas tabelas do "Resultado Preliminar" da Prova Objetiva, posteriormente apenas "ratificado" (não republicado) como "Resultado Definitivo". Essa estrutura foi escolhida pois contém a composição (desestruturação por disciplina) da nota final da "Prova Objetiva", necessária a aplicação dos critérios de DESEMPATE previstos no item 14.3 do Edital (com exceção do critérios "a" e "i" relacionados a IDADE/NASCIMENTO dos candidatos, ainda não disponibilizados publicamente).
 
+![image](https://github.com/user-attachments/assets/7559ce03-a76c-4b23-acfc-d64d36226ef8) ![image](https://github.com/user-attachments/assets/b1e05426-34b9-44bb-97d9-92558c32437b)
+
+
+
 Portanto, seguindo a ordem dos fatores de cada critérios foram aplicados filtros de ordenamento decrescentes nas respectivas colunas para o tratamento dos casos de desempate e o ranqueamento mais fidedigno posível.
 
 ```
