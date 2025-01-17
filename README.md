@@ -15,6 +15,7 @@
 
 * Calculadora de Nota: [https://eeass.github.io/pssmgi24/calc/](https://eeass.github.io/pssmgi24/calc/)
 * Ranking "Preliminar": [https://eeass.github.io/pssmgi24/rank/](https://eeass.github.io/pssmgi24/rank/)
+* Controle de Contrações: [https://eeass.github.io/pssmgi24/hire/](https://eeass.github.io/pssmgi24/hire/)
 
 ### Páginas Oficiais / Data Sources
 
