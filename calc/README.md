@@ -13,7 +13,13 @@
 
 * Grupo de Candidatos no Telegram: [t.me/processoSeletivoSimplificadoMGI](https://t.me/processoSeletivoSimplificadoMGI)
 
-### Colaborações
+### Colaborações/Features
 
 * Calculadora de Nota: [https://eeass.github.io/pssmgi24/calc/](https://eeass.github.io/pssmgi24/calc/)
 * Ranking "Preliminar": [https://eeass.github.io/pssmgi24/rank/](https://eeass.github.io/pssmgi24/rank/)
+* Controle de Contrações: [https://eeass.github.io/pssmgi24/hire/](https://eeass.github.io/pssmgi24/hire/)
+
+### Páginas Oficiais / Data Sources
+
+* Instituto AOCP (Banca de Seleção): [https://www.institutoaocp.org.br/concursos/612](https://www.institutoaocp.org.br/concursos/612)
+* Ministério da Gestão e da Inovação em Serviços Públicos (MGI): [https://gov.br/gestao/pt-br/acesso-a-informacao/servidores/selecoes-publicas](https://www.gov.br/gestao/pt-br/acesso-a-informacao/servidores/selecoes-publicas)
