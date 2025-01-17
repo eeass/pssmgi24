@@ -10,16 +10,6 @@
 
 <h2 align="center"></h2>
 
-### Conversas / MeetUp
-
-* Grupo de Candidatos no Telegram: [t.me/processoSeletivoSimplificadoMGI](https://t.me/processoSeletivoSimplificadoMGI)
-
-### Colaborações
-
-* Calculadora de Nota: [https://eeass.github.io/pssmgi24/calc/](https://eeass.github.io/pssmgi24/calc/)
-* Ranking "Preliminar": [https://eeass.github.io/pssmgi24/rank/](https://eeass.github.io/pssmgi24/rank/)
-
-
 ### Esquema dos Dados (JSON)
 
 A página we foi desenvolvida para exibir os dados extraídos de arquivos JSON, separados e criados a partir do escopo de cada cargo, mas com  o mesmo "esquema de dados" representados abaixo:
@@ -130,5 +120,20 @@ Desta forma, a disponibilidades de "cargos" para consulta no rank (através do m
 ![image](https://github.com/user-attachments/assets/aa0229be-4912-44d0-a960-cc5cb7295560) ![image](https://github.com/user-attachments/assets/57157add-3af3-4134-8ca1-43db9a23263a)
 
 
+<h2 align="center"></h2>
 
+### Conversas / MeetUp
+
+* Grupo de Candidatos no Telegram: [t.me/processoSeletivoSimplificadoMGI](https://t.me/processoSeletivoSimplificadoMGI)
+
+### Colaborações/Features
+
+* Calculadora de Nota: [https://eeass.github.io/pssmgi24/calc/](https://eeass.github.io/pssmgi24/calc/)
+* Ranking "Preliminar": [https://eeass.github.io/pssmgi24/rank/](https://eeass.github.io/pssmgi24/rank/)
+* Controle de Contrações: [https://eeass.github.io/pssmgi24/hire/](https://eeass.github.io/pssmgi24/hire/)
+
+### Páginas Oficiais / Data Sources
+
+* Instituto AOCP (Banca de Seleção): [https://www.institutoaocp.org.br/concursos/612](https://www.institutoaocp.org.br/concursos/612)
+* Ministério da Gestão e da Inovação em Serviços Públicos (MGI): [https://gov.br/gestao/pt-br/acesso-a-informacao/servidores/selecoes-publicas](https://www.gov.br/gestao/pt-br/acesso-a-informacao/servidores/selecoes-publicas)
 
